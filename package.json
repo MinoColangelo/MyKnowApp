@@ -1,0 +1,37 @@
+{
+  "name": "myknowapp",
+  "version": "1.0.0",
+  "description": "All my stuffs",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinoColangelo/MyKnowApp.git"
+  },
+  "keywords": [
+    "cinema"
+  ],
+  "author": "Mino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MinoColangelo/MyKnowApp/issues"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "cssnano": "^3.10.0",
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sync": "^0.6.2",
+    "pixrem": "^3.0.2"
+  },
+  "homepage": "https://github.com/MinoColangelo/MyKnowApp#readme"
+}

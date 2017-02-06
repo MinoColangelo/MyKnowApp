@@ -1,0 +1,64 @@
+// # navbar override
+.navbar {
+	background-color: white;
+	z-index: 10;
+	&-brand {
+		font-family: 'Raleway', sans-serif;
+	}
+}
+
+.panel {
+	&-movie-card {
+		overflow: hidden;
+		.panel {
+			&-heading {
+				padding: 10px;
+
+				img {
+					display: block;
+					width: 100%;
+					height: 250px;
+					object-fit: contain;
+				}
+			}
+		}
+		&__title {
+			font-family: 'Raleway', sans-serif;
+			font-size: 16px;
+			margin: 0 0 10px 0;
+		}
+		&__specs {
+			display: flex;
+			flex-wrap: wrap;
+			margin: 0 auto;
+			dt {
+				width: 30%;
+				font-weight: bold;
+			}
+			dd {
+				width: 70%;
+				padding-left: 10px;
+				.label {
+					margin-right: 5px;
+				}
+			}
+		}
+	}
+}
+
+.main-container {
+	padding: 85px 15px;
+}
+
+.flex {
+	&-list {
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+
+		&-item {
+			width: 30%;
+			margin: 10px
+		}
+	}
+}

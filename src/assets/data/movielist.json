@@ -1,0 +1,120 @@
+[
+	{
+		"title": "Bianco, rosso e Verdone",
+		"year": "1980",
+		"genres": ["commedia"],
+		"img": "http://www.sulpanaro.net/wp-content/uploads/2016/03/biancorossoverdone.png",
+		"saga": false,
+		"quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Scusa ma ti chiamo amore",
+		"year": "2008",
+		"genres": ["romantico", "trash"],
+		"img": "http://pad.mymovies.it/filmclub/2007/08/036/imm.jpg",
+		"saga": false,
+		"quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Lo Hobbit - Un viaggio inaspettato",
+		"year": "2012",
+		"genres": ["avventura", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2009/04/151/imm.jpg",
+		"saga": true,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Ottimo",
+			"sub": true,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Lo Hobbit - La desolazione di Smaug",
+		"year": "2013",
+		"genres": ["avventura", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2011/01/026/imm.jpg",
+		"saga": true,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Ottimo",
+			"sub": true,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Lo Hobbit - La Battaglia delle cinque Armate",
+		"year": "2014",
+		"genres": ["avventura", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2012/07/171/imm.jpg",
+		"saga": true,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Ottimo",
+			"sub": true,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Il Viaggio di Arlo",
+		"year": "2015",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2012/04/143/imm.jpg",
+		"saga": false,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Ottimo",
+			"sub": false,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Zootropolis",
+		"year": "2016",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2013/08/079/imm.jpg",
+		"saga": false,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Ottimo",
+			"sub": true,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Aladdin",
+		"year": "1992",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2002/08/148/imm.jpg",
+		"saga": false,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Ottimo",
+			"sub": false,
+			"splitted": false
+		}
+	},
+	{
+		"title": "Alla ricerca della Valle Incantata",
+		"year": "1988",
+		"genres": ["animazione"],
+		"img": "http://giotto.ibs.it/vjack/z84/5050582282184.jpg",
+		"saga": false,
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Buono",
+			"sub": false,
+			"splitted": false
+		}
+	}
+
+]
