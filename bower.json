@@ -1,5 +1,5 @@
 {
-  "name": "MyKnow App",
+  "name": "myknowapp",
   "description": "Applicazione di vaga utilità per censire i film nella mia memoria esterna",
   "main": "index.html",
   "authors": [
@@ -16,6 +16,7 @@
     "tests"
   ],
   "devDependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.1"
   }
 }

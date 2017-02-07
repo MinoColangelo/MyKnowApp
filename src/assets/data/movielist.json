@@ -1,120 +1,5807 @@
 [
 	{
-		"title": "Bianco, rosso e Verdone",
-		"year": "1980",
-		"genres": ["commedia"],
-		"img": "http://www.sulpanaro.net/wp-content/uploads/2016/03/biancorossoverdone.png",
-		"saga": false,
-		"quality": {
+        "quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Scusa ma ti chiamo amore",
-		"year": "2008",
-		"genres": ["romantico", "trash"],
-		"img": "http://pad.mymovies.it/filmclub/2007/08/036/imm.jpg",
-		"saga": false,
-		"quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Lo Hobbit - Un viaggio inaspettato",
-		"year": "2012",
-		"genres": ["avventura", "epico"],
-		"img": "http://pad.mymovies.it/filmclub/2009/04/151/imm.jpg",
-		"saga": true,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Ottimo",
-			"sub": true,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Lo Hobbit - La desolazione di Smaug",
-		"year": "2013",
-		"genres": ["avventura", "epico"],
-		"img": "http://pad.mymovies.it/filmclub/2011/01/026/imm.jpg",
-		"saga": true,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Ottimo",
-			"sub": true,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Lo Hobbit - La Battaglia delle cinque Armate",
-		"year": "2014",
-		"genres": ["avventura", "epico"],
-		"img": "http://pad.mymovies.it/filmclub/2012/07/171/imm.jpg",
-		"saga": true,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Ottimo",
-			"sub": true,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Il Viaggio di Arlo",
-		"year": "2015",
-		"genres": ["animazione"],
-		"img": "http://pad.mymovies.it/filmclub/2012/04/143/imm.jpg",
-		"saga": false,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Ottimo",
-			"sub": false,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Zootropolis",
-		"year": "2016",
-		"genres": ["animazione"],
-		"img": "http://pad.mymovies.it/filmclub/2013/08/079/imm.jpg",
-		"saga": false,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Ottimo",
-			"sub": true,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Aladdin",
-		"year": "1992",
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Aladdin",
+        "year": "1992",
 		"genres": ["animazione"],
 		"img": "http://pad.mymovies.it/filmclub/2002/08/148/imm.jpg",
-		"saga": false,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Ottimo",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
 			"sub": false,
-			"splitted": false
-		}
-	},
-	{
-		"title": "Alla ricerca della Valle Incantata",
-		"year": "1988",
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Alla Ricerca della Valle Incantata",
+        "year": "1988",
 		"genres": ["animazione"],
 		"img": "http://giotto.ibs.it/vjack/z84/5050582282184.jpg",
-		"saga": false,
-		"quality": {
-			"video" : "BdRip",
-			"audio" : "Buono",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
 			"sub": false,
-			"splitted": false
-		}
-	}
-
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Alla Ricerca di Nemo",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "American Pie - Ancora insieme",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Biancaneve e i Sette Nani",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Big-Hero 6",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Cattivissimo Me",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Cenerentola - Il Gioco Del Destino",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Cenerentola",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Dragon Ball Z OAV - Il Diabolico Guerriero Degli Inferi",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Dragon Ball Z OAV - La Battaglia degli Dei",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Epic - Il Mondo Segreto",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Fantasia",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Frozen - Fever",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Frozen - Il Regno di Ghiaccio",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Gli Aristogatti",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Gli Incredibili",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "I Pinguini di Madacascar - La giornata di Re Julien",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "I Puffi",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "I Simpson_Il Film",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Il Piccolo Principe",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Il Re Leone 1 - Special Edition 2003",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione/Il Viaggio di Arlo",
+        "title": "Il Viaggio di Arlo",
+        "year": "2015",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2012/04/143/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kubo e la Spada Magica",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kung Fu Panda 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kung Fu Panda 2",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kung Fu Panda 3",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La bella addormentata nel bosco",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La Bella e La Bestia",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La Sirenetta",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La Spada nella Roccia",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Le 5 Leggende",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Le avventure di Peter Pan",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Le Follie Dell'imperatore",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "L'Era Glaciale 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "L'Era Glaciale 2 - Il Disgelo",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "L'Era Glaciale 3 - L'Alba dei Dinosauri",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Lilli e il Vagabondo",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Madagascar 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Madagascar 2",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Megamind",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Monsters & Co.",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Monsters University",
+        "year": "2013",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "BRRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Mostri Contro Alieni",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Mulan",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Pocahontas",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Ralph Spaccatutto",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Rapunzel - L'intreccio della torre",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Ribelle - The Brave",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Robin Hood",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "The Nightmare Before Christmas",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Toy Story 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Toy Story 2",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Toy Story 3 - La Grande Fuga",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Up - L'uomo dei palloncini",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione/Zootropolis (2016)",
+        "title": "Zootropolis",
+        "year": "2016",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2013/08/079/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "1984 Orwell",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "American Gangster",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Arancia Meccanica",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Ave Cesare - Hail, Caesar!",
+        "title": "Ave Cesare - Hail, Caesar",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Bastardi Senza Gloria",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Coach Carter",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Django Unchained",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Donnie Darko",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Dredd - La legge sono io",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Fast & Furious",
+        "title": "Fast & Furious 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Fast & Furious",
+        "title": "Fast & Furious 2 - 2Fast 2Furios",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Fast & Furious",
+        "title": "Fast & Furious 3 - Tokio Drift",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Fast & Furious",
+        "title": "Fast & Furious 4 - Solo Parti Originali",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Fast & Furious",
+        "title": "Fast & Furious 5",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Fight Club",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Forrest Gump",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Fury",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Gamer",
+        "year": "2010",
+		"genres": ["thriller"],
+		"img": "http://pad.mymovies.it/filmclub/2008/07/110/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": true,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Giustizia Privata (2 CD)",
+        "year": "2009",
+		"genres": ["thriller"],
+		"img": "http://pad.mymovies.it/filmclub/2009/08/086/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Hancock",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "He Got Game",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Her -Lei",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "I Guerrieri della Notte",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "I Sogni Segreti di Walter Mitty",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Identità",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Il Cacciatore Di Aquiloni",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Il Piccolo Buddha",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Inception",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Inside Man",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Into the Wild",
+        "title": "Into the Wild 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Into the Wild",
+        "title": "Into the Wild 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Invictus CD1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Invictus CD2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": true,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Io e Marley (2 CD)",
+        "year": "2008",
+		"genres": ["commedia", "drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2008/06/041/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Io Me ed Irene",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Jumper",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "L' Avvocato del Diavolo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "La 25a Ora",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/La Grande Scommessa",
+        "title": "La grande scommessa - The Big Short (2015).ita.eng.sub.ita.eng.iCV-MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "La Ricerca della Felicità",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "La Teoria del Tutto",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "La Verità è che non gli Piaci Abbastanza",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "L'Attimo Fuggente ",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Le Regole dell'Attrazione",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Lui è Tornato",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Money Monster - L'altra Faccia del Denaro",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Notorious B.I.G.",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Now You see Me 1 - I Maghi del Crimine",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Now You see Me 2 - I Maghi del Crimine",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Outlander - L'Ultimo Vichingo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Peaceful Warrior - La forza del campione",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Pretty Woman",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Pulp Fiction",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Qualcosa Di Speciale - CD1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Qualcosa Di Speciale - CD2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Red 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Revenant - Redivivo (2015)",
+        "title": "Revenant - Redivivo (2015)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mp4"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Revenant - Redivivo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Revolver",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Risvegli",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Scarface",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Serendipity - Quando l'Amore è Magia",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Seven",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Sex And The City",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Shutter Island",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Slevin - Patto Criminale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Sotto corte Marziale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Tartarughe Ninja alla Riscossa",
+        "title": "Tartarughe Ninja alla riscossa - 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Tartarughe Ninja alla Riscossa",
+        "title": "Tartarughe Ninja alla riscossa - 2 - Il segreto di ooze",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Tartarughe Ninja alla Riscossa",
+        "title": "Tartarughe Ninja alla riscossa - 3",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Terminator - Salvation",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/The Hateful Eight (2015)",
+        "title": "The Hateful Eight (2015)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "The Life of David Gale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "The Number 23",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "The Social Network",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "The Truman Show",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mp4"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "The Wolf of Wall Street",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Titanic",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Training Day",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Un Sogno Per Domani",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Vanilla Sky",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Wall Street - Il Denaro non Dorme Mai CD1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Wall Street - Il Denaro non Dorme Mai CD2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "Will Hunting - Genio Ribelle",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller",
+        "title": "World Trade Center",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Azione.Dramma.Thriller/Zona D'Ombra",
+        "title": "Zona D'Ombra - Concussion (2015)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "17 Again - Ritorno al Liceo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "3Ciento_Chi L'ha Duro La Vince",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "40 Anni Vergine",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "40 giorni e 40 notti",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "500 Giorni Insieme",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Agente Smart - Casino Totale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Alfie",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/American Pie",
+        "title": "American Pie 1 - Il Primo assaggio non si scorda mai",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/American Pie",
+        "title": "American Pie 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "AVI"
+        },
+        "path": "Zona Video/Film/Commedie Americane/American Pie",
+        "title": "American Pie 3 - Il Matrimonio",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/American Pie",
+        "title": "American Pie 4 - Band Camp",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/American Pie",
+        "title": "American Pie 5 - Nudi Alla Metà",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/American Pie",
+        "title": "American Pie 6 - Beta House",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Decameron Pie",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Eurotrip",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Fatti, Strafatti e Strafighe",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Finalmente Maggiorenni",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Hitch - Lui sì che Capisce le Donne",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Hot Movie",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "How High - Due Sballati al College",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Il Diavolo Veste Prada",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Il Lato Positivo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "La Ragazza del mio Migliore Amico",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "La Ragazza della Porta Accanto",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "La Rivolta delle Ex",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Lei è Troppo per Me",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Libera Uscita CD1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Libera Uscita CD2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Licenza di Matrimonio",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Maial College",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Mamma Mia",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Molto Incinta",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Non è un'Altra Stupida Commedia Americana",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Notte Brava a Las Vegas",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Racconti Incantati",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Road Trip",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Scary Movie",
+        "title": "Scary Movie 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Scary Movie",
+        "title": "Scary Movie 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Scary Movie",
+        "title": "Scary Movie 3",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Scary Movie",
+        "title": "Scary Movie 4",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Superhero_Il più Dotato fra i Supereroi",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Sux Bad - 3 Metri Sopra il Pelo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Take Me Home Tonight",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "The Perfect Score",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Tutti Insieme Inevitabilmente",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Una Notte al Museo",
+        "title": "Una Notte al Museo 2 - La Fuga",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Una Notte da Leoni",
+        "title": "Una Notte da Leoni 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane/Una Notte da Leoni",
+        "title": "Una Notte da Leoni 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Un'impresa da Dio",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Vi presento Joe Black",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Yesman",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Commedie Americane",
+        "title": "Young People Fucking",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mp4"
+        },
+        "path": "Zona Video/Film/Documentari",
+        "title": "Inside Job",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Alien",
+        "title": "Alien 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Alien",
+        "title": "Alien 2 - Scontro Finale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Alien",
+        "title": "Alien 3",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Apocalipse Now",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Armageddon",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Automata",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Babylon.A.D",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Battleship",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Blade Runner",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Chronicle",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Cloud Atlas",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Cloverfield",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Codice Genesi",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Colpa delle Stelle",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Edge Of Tomorrow",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Ex Machina",
+        "title": "Ex Machina",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Franklyn",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/G.I. Joe",
+        "title": "G.I. Joe - La Nascita dei Cobra (Tempo1)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/G.I. Joe",
+        "title": "G.I. Joe - La Nascita dei Cobra (Tempo2)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/G.I. Joe",
+        "title": "G.I. Joe - La Vendetta",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Gattaca - La porta dell'universo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Gravity",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 1 - La Minaccia Fantasma",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 2 - L'Attacco Dei Cloni",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 2bis - The Clone Wars",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 3 - La Vendetta dei Sith",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 4 - Una Nuova Speranza",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 5 - L'impero Colpisce Ancora",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 6 - Il Ritorno dello Jedi",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Fantascienza/Guerre Stellari",
+        "title": "Guerre Stellari Episodio 7 - Il Risveglio della Forza",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Humandroid",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Hunger Games",
+        "title": "Hunger Games 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Hunger Games",
+        "title": "Hunger Games 2 - La Ragazza di Fuoco",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Hunger Games",
+        "title": "Hunger Games 3 - Il Canto della Rivolta parte.1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Il codice Da Vinci",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Il Corvo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Il Mondo dei Replicanti",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Il Pianeta delle Scimmie/Il Pianeta delle Scimmie 1 - Rise of the Planet of the Apes",
+        "title": "Il Pianeta delle Scimmie 1 - Rise of the Planet of the Apes",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Il Pianeta delle Scimmie",
+        "title": "Il Pianeta delle Scimmie 2 - Apes Revolution (Alba del Pianeta Delle Scimmie)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "In Time",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Inception",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Indipendence Day",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Io Sono Leggenda",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Jupiter - Il Destino dell'Universo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Jurassik Park",
+        "title": "Jurassic Park 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Jurassik Park",
+        "title": "Jurassic Park 2 - Il Mondo Perduto",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Jurassik Park",
+        "title": "Jurassic Park 3",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Kickass",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "King Kong",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Limitless",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Looper - In Fuga dal Passato",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Mad Max 1 - Interceptor",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Matrix",
+        "title": "Matrix 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Matrix",
+        "title": "Matrix 2 - Reloaded",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Matrix",
+        "title": "Matrix 3 - Revolution",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Maze Runner",
+        "title": "Maze Runner 1 - Il Labirinto",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Maze Runner",
+        "title": "Maze Runner 2 - La Fuga",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Minority Report (minuto 44.18 x tesi)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Pacific Rim",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Percy Jackson E Gli Dei Dell'olimpo - Il Ladro Di Fulmini",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Rollerball - 2002 (16.25)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Segnali dal Futuro",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Serenity",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Sin City",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Snowpiercer",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Star Trek",
+        "title": "Star Trek - Il Futuro ha Inizio",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/Star Trek",
+        "title": "Star Trek - Into Darkness",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "The Butterfly Effect",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza/The Divergent Saga",
+        "title": "Th Divergent Saga 1 - Divergent",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "The Island",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "The Spirit",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Tomorrowland - Il Mondo di Domani",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Total Recall - Atto di Forza",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Transformers",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Trascendence",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Ultimatum alla Terra",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "Waterworld",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantascienza",
+        "title": "World War Z",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "10000 A.C.",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "300",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "Braveheart - Cuore impavido",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "Dragon Ball Evolution",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "EMBER - Il Mistero della Città di Luce",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 1 - E la Pietra Filosofale (2001)",
+        "title": "Harry Potter e la pietra filosofale.ita.eng.sub.ita.eng.MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 2 - E la Camera dei segreti (2002)",
+        "title": "Harry Potter e la Camera dei segreti.ita.eng.sub.ita.eng.MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 3 - E il Prigioniero di Azkaban (2004)",
+        "title": "Harry Potter e il prigioniero di Azkaban.Ita.Eng.sub.ita.eng-MIRCRew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 4 - E Il Calice di Fuoco (2005)",
+        "title": "Harry Potter e Il Calice di Fuoco.ita.eng.sub.ita.eng-MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 5 - E l'Ordine della Fenice (2007)",
+        "title": "Harry Potter e L'Ordine della Fenice - Harry Potter and the Order of the Phoenix (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 6 - E il Principe Mezzosangue  (2009)",
+        "title": "Harry Potter e il Principe mezzosangue - Harry Potter and the Half-Blood Prince (2009)-MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 7 - E i Doni della morte -Parte I (2011)",
+        "title": "Harry Potter e i Doni della morte -Parte I-MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 7 - E i Doni della morte -Parte II (2012)",
+        "title": "Harry Potter e i Doni della morte -Parte II - MIRCrew",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Il Signore degli Anelli/Il Signore degli Anelli 1 - La Compagnia dell'Anello (2001)",
+        "title": "Il Signore degli Anelli - La Compagnia dell'Anell (2001)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Il Signore degli Anelli/Il Signore Degli Anelli 2 - Le Due Torri (2002)",
+        "title": "Il Signore Degli Anelli - Le Due Torri (2002)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Il Signore degli Anelli/Il Signore degli Anelli 3 - Il Ritorno del Re (2003)",
+        "title": "Il Signore degli Anelli - Il Ritorno del Re (2003)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "John Carter",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "La Bussola d'Oro",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "La Furia dei Titani",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "La Leggenda degli Uomini Straordinari",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "La Leggenda del Cacciatore di Vampiri",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "La Storia Infinita",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "L'Apprendista Stregone",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
+        "title": "Le Cronache di Narnia 1 - Il Leone, la Strega e l'Armadio",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
+        "title": "Le Cronache di Narnia 2 - Il Principe Caspian (Tempo1)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
+        "title": "Le Cronache di Narnia 2 - Il Principe Caspian (Tempo2)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
+        "title": "Le Cronache di Narnia 2 - Il Principe Caspianes",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": true,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit - Trilogy/Lo Hobbit 1 - Un Viaggio Inaspettato  (2012)",
+        "title": "Lo Hobbit Un Viaggio Inaspettato",
+        "year": "2012",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2009/04/151/imm.jpg",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": true,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit - Trilogy/Lo Hobbit 2 - La desolazione di Smaug (2013)",
+        "title": "Lo Hobbit 2 - La desolazione di Smaug",
+        "year": "2013",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2011/01/026/imm.jpg",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": true,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit - Trilogy/Lo Hobbit 3 - la Battaglia delle Cinque Armate (2014)",
+        "title": "Lo Hobbit 3 - la Battaglia delle Cinque Armate",
+        "year": "2014",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2012/07/171/imm.jpg",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit",
+        "title": "Lo Hobbit 1- Un Viaggio Inaspettato",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit",
+        "title": "Lo Hobbit 2 - La desolazione di Smaug",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit",
+        "title": "Lo Hobbit 3 - La Battaglia delle Cinque Armate",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Pirati dei Caraibi",
+        "title": "Pirati dei Caraibi 1 - La Maledizione della Prima Luna",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Pirati dei Caraibi",
+        "title": "Pirati dei Caraibi 2 - La Maledizione del Forziere Fantasma",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Pirati dei Caraibi",
+        "title": "Pirati dei Caraibi 3 - Ai Confini del Mondo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": true
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "Prince Of Persia - Le Sabbie Del Tempo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "Robin Hood",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica",
+        "title": "Scontro Tra Titani",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Tartarughe Ninja  2 - Fuori dall'Ombra (2016)",
+        "title": "Tartarughe Ninja  2 - Fuori dall'Ombra",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/The Twilight Saga",
+        "title": "The Twilight Saga 1 - Twilight",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/The Twilight Saga",
+        "title": "The Twilight Saga 2 - New Moon",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/The Twilight Saga",
+        "title": "The Twilight Saga 3 - Eclipse",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/The Twilight Saga",
+        "title": "The Twilight Saga 4 - Breaking Dawn Parte 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/The Twilight Saga",
+        "title": "The Twilight Saga 4 - Breaking Dawn Parte 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "1408",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "28 Settimane Dopo",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "30 Giorni di Buio",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "Cloverfield",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "District 9",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "Doomsday",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "E Venne il Giorno",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "Il Labirinto del Fauno",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "REC - La Paura in Diretta",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Resident Evil",
+        "title": "Resident Evil - Damnation",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Resident Evil",
+        "title": "Resident Evil - Degeneration",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Resident Evil",
+        "title": "Resident Evil 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Resident Evil",
+        "title": "Resident Evil 2 - Apocalypse",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Resident Evil",
+        "title": "Resident Evil 3 - Extinction",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Resident Evil",
+        "title": "Resident Evil 4 - Afterlife",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Saw - L'Enigmista",
+        "title": "Saw 1 - L'Enigmista",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Saw - L'Enigmista",
+        "title": "Saw 2 - La Soluzione dell'Enigma",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Saw - L'Enigmista",
+        "title": "Saw 3",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Saw - L'Enigmista",
+        "title": "Saw 4",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror/Saw - L'Enigmista",
+        "title": "Saw 5 - Non Crederai Ai Tuoi Occhi",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Horror",
+        "title": "The Bay",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Bianco, Rosso e Verdone (1981)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Come tu mi vuoi (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Ex (2009)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Fuochi D'Artificio (1997)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Ho voglia di te (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "I Laureati (1995)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Jolly Blu (1998)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "La Pazza Gioia (2016)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "La Prima Linea (2009)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Mio fratello è figlio unico (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Notte Prima degli Esami (2006)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Notte Prima degli Esami Oggi (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Parlami d'Amore (2008)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Perfetti Sconosciuti (2016)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Questa Notte è ancora Nostra (2008)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Quo Vado (2016)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Scrivilo sui Muri (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Scusa ma ti Chiamo Amore",
+        "year": "2008",
+		"genres": ["romantico", "trash"],
+		"img": "http://pad.mymovies.it/filmclub/2007/08/036/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Smetto Quando Voglio (2014)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Tutta la Vita Davanti (2008)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Una Moglie Bellissima (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Viaggi di Nozze (1995)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Italiani",
+        "title": "Voce del Verbo Amore (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Avengers",
+        "title": "Avengers 2 - Age of Ultron (2015)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Batman",
+        "title": "Batman 2 - Il Cavaliere Oscuro (2008)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Batman",
+        "title": "Batman 3 - Il Ritorno del Cavaliere Oscuro (2012)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Captain America",
+        "title": "Captain America - Il Primo Vendicatore (2011)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Deadpool (2016)",
+        "title": "Deadpool (2016)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Hulk",
+        "title": "Hulk (2003)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Hulk",
+        "title": "L'Incredibile Hulk (2008)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/I Fantastici 4",
+        "title": "I Fantastici 4 1 (2005)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/I Fantastici 4",
+        "title": "I Fantastici 4 2 - e Silver Surfer (2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/SuperHeroes/I Guardiani della Galassia",
+        "title": "I Guardiani della Galassia (2014)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Iron Man",
+        "title": "Iron Man 1 (2008)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Iron Man",
+        "title": "Iron Man 2 (2010)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Spiderman",
+        "title": "Spiderman 1 (2002)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Spiderman",
+        "title": "Spiderman 2(2004)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Spiderman",
+        "title": "Spiderman 3(2007)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Spiderman",
+        "title": "The Amazing Spiderman (2012)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Superman",
+        "title": "Superman - 1 - L'Uomo d'Acciaio (2013)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/Thor",
+        "title": "Thor 1 (2011)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes",
+        "title": "Watchmen (2009)",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/SuperHeroes/X-Men/L'inizio",
+        "title": "X-Men 5 - Giorni di un Futuro Passato",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/X-Men/Wolverine",
+        "title": "Wolverine 1 - Le Origini",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/X-Men/Wolverine",
+        "title": "Wolverine 2 - l'Immortale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/X-Men",
+        "title": "X-Men 1",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/X-Men",
+        "title": "X-Men 2",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/SuperHeroes/X-Men",
+        "title": "X-Men 3 - Conflitto finale",
+        "year": "",
+		"genres": ["movie"],
+		"img": "assets/img/no-pic.png",
+		"saga": false
+    }
 ]

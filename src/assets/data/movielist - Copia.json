@@ -1,0 +1,842 @@
+[
+	{
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Aladdin",
+        "year": "1992",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2002/08/148/imm.jpg",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Alla Ricerca della Valle Incantata",
+        "year": "1988",
+		"genres": ["animazione"],
+		"img": "http://giotto.ibs.it/vjack/z84/5050582282184.jpg",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Alla Ricerca di Nemo",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "American Pie - Ancora insieme",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Biancaneve e i Sette Nani",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Big-Hero 6",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Cattivissimo Me",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Cenerentola - Il Gioco Del Destino",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Cenerentola",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Dragon Ball Z OAV - Il Diabolico Guerriero Degli Inferi",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Dragon Ball Z OAV - La Battaglia degli Dei",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Epic - Il Mondo Segreto",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Fantasia",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Frozen - Fever",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Frozen - Il Regno di Ghiaccio",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Gli Aristogatti",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Gli Incredibili",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "I Pinguini di Madacascar - La giornata di Re Julien",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "I Puffi",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "I Simpson_Il Film",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Il Piccolo Principe",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Il Re Leone 1 - Special Edition 2003",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione/Il Viaggio di Arlo",
+        "title": "Il Viaggio di Arlo",
+        "year": "2015",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2012/04/143/imm.jpg",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kubo e la Spada Magica",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kung Fu Panda 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kung Fu Panda 2",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Kung Fu Panda 3",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La bella addormentata nel bosco",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La Bella e La Bestia",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La Sirenetta",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "La Spada nella Roccia",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Le 5 Leggende",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Le avventure di Peter Pan",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Le Follie Dell'imperatore",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "L'Era Glaciale 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "L'Era Glaciale 2 - Il Disgelo",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "L'Era Glaciale 3 - L'Alba dei Dinosauri",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Lilli e il Vagabondo",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Madagascar 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Madagascar 2",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Megamind",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Monsters & Co.",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Monsters.University.2013.iTALiAN.AC3.BRRip.XviD-T4P3",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Mostri Contro Alieni",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Mulan",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Pocahontas",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Ralph Spaccatutto",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Rapunzel - L'intreccio della torre",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Ribelle - The Brave",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Robin Hood",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "The Nightmare Before Christmas",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Toy Story 1",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Toy Story 2",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Toy Story 3 - La Grande Fuga",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione",
+        "title": "Up - L'uomo dei palloncini",
+        "year": "",
+		"genres": ["animazione"],
+		"img": "assets/img/no-pic.png",
+		"saga": false,
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Zona Video/Film/Animazione/Zootropolis (2016)",
+        "title": "Zootropolis",
+        "year": "2016",
+		"genres": ["animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2013/08/079/imm.jpg",
+		"saga": false,
+    },    
+]

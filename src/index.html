@@ -57,7 +57,7 @@
 				  </div>
 				  <div class="form-group">
 				    <label class="sr-only" >saga</label>
-				    <input ng-model="movie.saga" type="checkbox" class="form-control" placeholder="Anno">
+				    <input ng-model="movie.saga" type="checkbox" class="form-control">
 				  </div>
 				</form>
 			</aside>
@@ -79,6 +79,10 @@
 					  <dt>Genere</dt>
 					  <dd>
 					  	<span ng-repeat="gen in movie.genres" class="label label-primary">{{gen}}</span>
+					  </dd>
+					  <dt>Percorso</dt>
+					  <dd>
+					  	<small>{{movie.path}}</small>
 					  </dd>
 					</dl>
 				  </div>

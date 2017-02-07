@@ -1,7 +1,11 @@
-// # navbar override
+// # override
+body {
+	background-color: #9FE4D1;
+}
+
 .navbar {
 	background-color: white;
-	z-index: 10;
+	z-index: 1000;
 	&-brand {
 		font-family: 'Raleway', sans-serif;
 	}
@@ -58,7 +62,16 @@
 
 		&-item {
 			width: 30%;
-			margin: 10px
+			margin: 10px;
+			transition: all 250ms;
+			transform: scale(1);
+			z-index: 5;
+			&:hover,
+			&:focus {
+				transform: scale(1.04);
+				box-shadow: 0 5px 18px rgba(black,0.16);		
+				z-index: 500;
+			}
 		}
 	}
 }

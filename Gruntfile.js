@@ -17,11 +17,15 @@ module.exports = function (grunt) {
                 files: '<%= src_path %>/assets/data/**/*.json',
                 tasks: ['sync']
             },
+            imgWatch: {
+                files: '<%= src_path %>/assets/img/**/*',
+                tasks: ['sync']
+            },
             htmlWatch: {
                 files: '<%= src_path %>/**/*.html',
                 tasks: ['sync']
             },
-
+            
         },
 
         sass: {
@@ -52,6 +56,7 @@ module.exports = function (grunt) {
                   src: [
                     '*.html',
                     'assets/data/**/*.json',
+                    'assets/img/**/*',
                   ],
                   dest: '<%= dist_path %>',
                 }]
