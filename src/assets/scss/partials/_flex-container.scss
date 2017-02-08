@@ -1,0 +1,33 @@
+.flex-container {
+	display: flex;
+	justify-content: flex-start;
+	height: calc(100% - 65px);
+	padding: 0;
+
+	&__sidebar {
+		transition: all 300ms;
+		width: 0;
+		
+		@include da(md) {
+			width: 30%;	
+		}		
+		@include da(lg) {
+			width: 300px;	
+		}
+
+	}
+	&__body {
+		transition: all 300ms;
+		width: 100%;
+		background-color: #2D3740;
+		box-shadow: -2px 0 6px rgba(black, 0.2);
+
+		@include da(md) {
+			width: 70%;	
+		}
+		@include da(lg) {
+			width: calc(100% - 300px);	
+		}
+		
+	}
+}

@@ -41,7 +41,7 @@
         "title": "Alla Ricerca di Nemo",
         "year": "",
 		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
+		"img": "",
 		"saga": false
     },
     {
@@ -4291,48 +4291,48 @@
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": true,
 			"splitted": false,
         	"ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Il Signore degli Anelli/Il Signore degli Anelli 1 - La Compagnia dell'Anello (2001)",
-        "title": "Il Signore degli Anelli - La Compagnia dell'Anell (2001)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Il Signore degli Anelli - La Compagnia dell'Anello",
+        "year": "2001",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2002/01/011/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+			"video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Il Signore degli Anelli/Il Signore Degli Anelli 2 - Le Due Torri (2002)",
-        "title": "Il Signore Degli Anelli - Le Due Torri (2002)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Il Signore Degli Anelli - Le Due Torri",
+        "year": "2002",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2003/01/012/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+			"video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Il Signore degli Anelli/Il Signore degli Anelli 3 - Il Ritorno del Re (2003)",
-        "title": "Il Signore degli Anelli - Il Ritorno del Re (2003)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Il Signore degli Anelli - Il Ritorno del Re",
+        "year": "2003",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2004/01/014/imm.jpg",
+		"saga": true
     },
     {
         "quality": {

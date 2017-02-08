@@ -1,0 +1,15 @@
+.flex-list {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding: 20px;
+
+	&__item {
+		margin: 5px 20px 5px 5px;
+		transition: all 250ms;
+		transform: scale(1);
+		z-index: 5;
+	}
+}

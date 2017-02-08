@@ -1,0 +1,11 @@
+.navbar {
+	background-color: white;
+	z-index: 1000;
+	margin: 0 auto;
+	border-radius: 0;
+	box-shadow: none;
+	border-bottom: 1px solid #ccc;
+	&-brand {
+		font-family: 'Raleway', sans-serif;
+	}
+}

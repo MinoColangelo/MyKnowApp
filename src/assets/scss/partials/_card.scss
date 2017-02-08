@@ -1,0 +1,78 @@
+$card-width: 160px;
+$card-height: 330px;
+
+.card {
+	width: $card-width;
+	//height: $card-height;
+	margin: 5px;
+	display: flex;
+	flex-direction: column;
+	
+	&__img {
+		height: 230px;
+		position: relative;
+		&__btn {
+			position: absolute;
+			width: 45px;
+			height: 45px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			bottom: 10px;
+			right: -15px;
+			background: #48cfad;
+			color: white;
+			font-size: 12px;
+			border-radius: 50%;
+			@include md-shadow(4);
+		}
+		img {
+			display: block;
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			@include md-shadow(2);
+		}
+	}
+	&__body {
+		padding: 15px 10px;
+		&__title {
+			font-family: 'Raleway', sans-serif;
+			font-size: 14px;
+			color: #cecece;
+			margin: 0 0 10px 0;
+			small {
+				display: block;
+				margin-top: 5px;
+			}
+		}	
+		&__tag {
+			padding: 2px 5px;
+			font-size: 10px;
+			background-color: #48cfad;
+			color: white;
+			margin-right: 5px;
+			border-radius: 3px;
+		}
+	}
+
+	
+
+	&__specs {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 auto;
+		dt {
+			width: 30%;
+			font-weight: bold;
+		}
+		dd {
+			width: 70%;
+			padding-left: 10px;
+			.label {
+				margin-right: 5px;
+			}
+		}
+	}
+	
+}

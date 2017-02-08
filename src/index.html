@@ -14,82 +14,104 @@
         <script src="../bower_components/angular/angular.js"></script>
     </head>
     <body ng-app="MyKnow" ng-controller="MyKnowCtrl">
-        <nav class="navbar navbar-fixed-top">
-			<div class="container-fluid">
-			    <div class="navbar-header">
-			      <a class="navbar-brand" href="#">{{title}}</a>
-		    	</div>
-			    <form class="navbar-form navbar-left">
-			      <div class="form-group">
-			        <input type="text" class="form-control" placeholder="Cerca Film per Titolo, Anno, Genere..." ng-model="generalSearch">
-			      </div>
-			    </form>
-		    </div>
-		</nav>
+    	<div class="wrapper">
+	    	<nav class="navbar">
+				<div class="container-fluid">
+				    <div class="navbar-header">
+				      <a class="navbar-brand" href="#">{{title}}</a>
+			    	</div>
+			    </div>
+			</nav>
 
-		<div class="container main-container">
-			<aside>
-				<form class="form">
-				  <div class="form-group">
-				    <label class="sr-only">Genere</label>
-				    <select class="form-control" ng-model="genre">
-				    	<option value="">Seleziona il genere</option>
-				    	<option ng-repeat="genre in genres" value="{{genre}}">{{genre}}</option>
-				    </select>
-				  </div>
-				</form>
-			</aside>
+			<div class="flex-container">
 
-			<aside>
-			<p>riprendere da qui: https://school.scotch.io/getting-started-with-angularjs-1x/adding-new-classifieds</p>
-				<form class="form-inline">
-				  <div class="form-group">
-				    <label class="sr-only" >Titolo</label>
-				    <input ng-model="movie.title" type="text" class="form-control" placeholder="Titolo">
-				  </div>
-				  <div class="form-group">
-				    <label class="sr-only" >Anno</label>
-				    <input ng-model="movie.year" type="text" class="form-control" placeholder="Anno">
-				  </div>
-				  <div class="form-group">
-				    <label class="sr-only" >Img</label>
-				    <input ng-model="movie.img" type="text" class="form-control" placeholder="Image">
-				  </div>
-				  <div class="form-group">
-				    <label class="sr-only" >saga</label>
-				    <input ng-model="movie.saga" type="checkbox" class="form-control">
-				  </div>
-				</form>
-			</aside>
+				<aside class="flex-newbox">
+					<p>riprendere da qui: https://school.scotch.io/getting-started-with-angularjs-1x/adding-new-classifieds</p>
+					<form class="form-inline">
+					  <div class="form-group">
+					    <label class="sr-only" >Titolo</label>
+					    <input ng-model="movie.title" type="text" class="form-control" placeholder="Titolo">
+					  </div>
+					  <div class="form-group">
+					    <label class="sr-only" >Anno</label>
+					    <input ng-model="movie.year" type="text" class="form-control" placeholder="Anno">
+					  </div>
+					  <div class="form-group">
+					    <label class="sr-only" >Img</label>
+					    <input ng-model="movie.img" type="text" class="form-control" placeholder="Image">
+					  </div>
+					  <div class="form-group">
+					    <label class="sr-only" >saga</label>
+					    <input ng-model="movie.saga" type="checkbox" class="form-control">
+					  </div>
+					</form>
+				</aside>
 
-			<div class="flex-list">
-				<div class="panel panel-default panel-movie-card flex-list-item"
-					ng-repeat="movie in movies |
-					           filter: generalSearch |
-					           filter: genre">
-				  <div class="panel-heading">
-					<img ng-src="{{movie.img}}" alt="{{movie.title}}">
-				  </div>
-				  <div class="panel-body">
-					<h3 class="panel-movie-card__title">{{movie.title}}</h3>
+				<aside class="flex-container__sidebar flex-sidebar">
+					
+					<form class="form">
 
-					<dl class="panel-movie-card__specs">
-					  <dt>Anno</dt>
-					  <dd>{{movie.year}}</dd>
-					  <dt>Genere</dt>
-					  <dd>
-					  	<span ng-repeat="gen in movie.genres" class="label label-primary">{{gen}}</span>
-					  </dd>
-					  <dt>Percorso</dt>
-					  <dd>
-					  	<small>{{movie.path}}</small>
-					  </dd>
-					</dl>
-				  </div>
+				      <div class="form-group">
+				        <input type="text" class="form-control" placeholder="Cerca Film per Titolo, Anno, Genere..." ng-model="generalSearch">
+				      </div>
+
+					  <div class="form-group">
+					    <label>Genere</label>
+					    <select class="form-control" ng-model="genre">
+					    	<option value="">Seleziona il genere</option>
+					    	<option ng-repeat="genre in genres" value="{{genre}}">{{genre}}</option>
+					    </select>
+					  </div>
+
+					  <h1>{{movies.length}}</h1>
+
+					</form>
+
+				</aside>
+
+				<div class="flex-container__body flex-list">
+					<div class="card flex-list__item"
+						ng-repeat="movie in movies |
+						           filter: generalSearch |
+						           filter: genre">
+					  
+					  <div class="card__img">
+					  	<button class="btn card__img__btn" ng-show="!showDetails" ng-click="showDetails = true">
+							<i class="glyphicon glyphicon-plus"></i>
+					  	</button>
+						<button class="btn card__img__btn" ng-show="showDetails" ng-click="showDetails = false">
+							<i class="glyphicon glyphicon-close"></i>
+						</button>
+						<img ng-src="{{movie.img}}" alt="{{movie.title}}">
+					  </div>
+
+					  <div ng-show="!showDetails" class="card__body">
+						  <h3 class="card__body__title">
+						  	{{movie.title}}
+						  	<small>{{movie.year}}</small>	
+						  </h3>
+						  
+						  <span ng-repeat="gen in movie.genres" class="card__body__tag">{{gen}}</span>	
+					  </div>
+												
+						<dl ng-show="showDetails" class="card__details">
+						  <dt>Video</dt>
+						  <dd>{{movie.quality.video}}</dd>
+						  <dt>Audio</dt>
+						  <dd>{{movie.quality.audio}}</dd>
+						  <dt>Estensione</dt>
+						  <dd>{{movie.quality.ext}}</dd>
+						  <dt>Diviso</dt>
+						  <dd><i class="glyphicon glyphicon-plus"></i></dd>
+						  <dt>Percorso</dt>
+						  <dd>{{movie.path}}</dd>
+						</dl>
+					</div>
 				</div>
-			</div>
 
-		</div>
+			</div>	
+    	</div>
+        
 
         <script src="assets/js/app.js"></script>
         <script src="assets/js/components/myknow.ctr.js"></script>
