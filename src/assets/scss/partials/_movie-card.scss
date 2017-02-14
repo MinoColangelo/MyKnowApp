@@ -1,0 +1,35 @@
+.movie-card {
+  &__head {
+    &__title {
+      font-family: 'Raleway', sans-serif;
+      font-size: 14px;
+      color: #cecece;
+      margin: 0 0 10px 0;
+    }
+    &__subtitle {
+      display: block;
+      margin-top: 2px;
+      font-size: 11px;
+    }
+    &__year {
+      display: block;
+      margin-top: 2px;
+      font-size: 10px;
+      color: rgba(white, 0.8);
+    }
+  }
+
+  &__body {
+    line-height:16px;
+    &__tag {
+      display: inline-block;
+      padding: 0 4px;
+      font-size: 10px;
+      color: rgba(white, 0.75);
+      background-color: rgba(white, 0.3);
+      margin-right: 5px;
+      font-weight: 200;
+      border-radius: 4px;
+    }
+  }
+}

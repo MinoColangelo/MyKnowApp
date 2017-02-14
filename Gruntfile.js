@@ -95,6 +95,24 @@ module.exports = function (grunt) {
             }
         },
 
+        browserSync: {
+            debug: {
+                bsFiles: {
+                    src : [
+                        '<%= src_path %>/**/*.html',
+                        '<%= src_path %>assets/scss/**/*.scss',
+                        '<%= src_path %>assets/js/**/*.js',
+                        '<%= src_path %>assets/img/**/*',
+                        '<%= src_path %>assets/data/**/*',
+                    ]
+                },
+                options: {
+                    watchTask: true,
+                    server: '.'
+                }
+            }
+        },
+
     });
 
     // load npm tasks
@@ -105,9 +123,10 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-postcss');
+    grunt.loadNpmTasks('grunt-browser-sync');
 
     // define default task
     grunt.registerTask('docheck', ['jshint']);
-    grunt.registerTask('build', ['sync', 'sass', 'postcss', 'uglify', 'watch']);
+    grunt.registerTask('build', ['sync', 'sass', 'postcss', 'uglify', 'browserSync','watch']);
     grunt.registerTask('default', ['build']);
 };

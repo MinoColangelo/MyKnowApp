@@ -9,6 +9,7 @@
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <!-- # Paper Style-->
         <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/paper/bootstrap.min.css" rel="stylesheet">
+        <link href="../bower_components/components-font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="assets/css/style.css">
 
         <script src="../bower_components/angular/angular.js"></script>
@@ -42,13 +43,13 @@
 					  </div>
 					  <div class="form-group">
 					    <label class="sr-only" >saga</label>
-					    <input ng-model="movie.saga" type="checkbox" class="form-control">
+					    <input ng-model="movie.saga.isSaga" type="checkbox" class="form-control">
 					  </div>
 					</form>
 				</aside>
 
-				<aside class="flex-container__sidebar flex-sidebar">
-					
+				<aside class="container-fluid flex-container__sidebar flex-sidebar">
+
 					<form class="form">
 
 				      <div class="form-group">
@@ -75,7 +76,7 @@
 						           filter: generalSearch |
 						           filter: genre |
 						           orderBy: movie.title">
-					  
+
 					  <div class="card__img">
 					  	<button class="btn card__img__btn" ng-show="!showDetails" ng-click="showDetails = true">
 							<i class="glyphicon glyphicon-plus"></i>
@@ -83,54 +84,77 @@
 						<img ng-src="{{movie.img}}" alt="{{movie.title}}">
 
 						<div ng-show="showDetails" class="card__details">
-							<table class="card__details__table">
-								<tr>
-									<td>Video</td>
-									<td>{{movie.quality.video}}</td>
-								</tr>
-								<tr>
-									<td>Audio</td>
-									<td>{{movie.quality.audio}}</td>
-								</tr>
-								<tr>
-									<td>Estensione</td>
-									<td>{{movie.quality.ext}}</td>
-								</tr>
-								<tr ng-show="movie.quality.splitted">
-									<td>Diviso</td>
-									<td><i class="text-warning glyphicon glyphicon-warning-sign"></i></td>
-								</tr>
-								<tr ng-show="movie.saga">
-									<td>Saga</td>
-									<td><i class="text-info glyphicon glyphicon-link"></i></td>
-								</tr>
-								
-							</table>
-							<div class="form-group">
-						        <input type="text" class="form-control" value="{{movie.path}}">
-						    </div>
-						    <button class="card__details__btn" ng-show="showDetails" ng-click="showDetails = false">
-								<i class="glyphicon glyphicon-remove-circle"></i>
+
+							<button class="card__details__btn" ng-show="showDetails" ng-click="showDetails = false">
+								<i class="fa fa-time"></i>
 							</button>
+
+							<ul class="list-group card-list">
+								<li class="list-group-item card-list__item" ng-if="movie.quality.video">
+									<h4 class="list-group-item-heading  card-list__item__heading">
+										<i class="fa fa-video-camera"></i> Video: <b>{{movie.quality.video}}</b>
+									</h4>
+								</li>
+								<li class="list-group-item card-list__item" ng-if="movie.quality.audio">
+									<h4 class="list-group-item-heading  card-list__item__heading">
+										<i class="fa fa-volume-up"></i> Audio: <b>{{movie.quality.audio}}</b>
+									</h4>
+								</li>
+								<li class="list-group-item card-list__item" ng-if="movie.quality.ext">
+									<h4 class="list-group-item-heading  card-list__item__heading">
+										<i class="fa fa-file-o"></i> File: <b>{{movie.quality.ext}}</b>
+									</h4>
+								</li>
+								<li class="list-group-item card-list__item" ng-if="movie.quality.splitted">
+									<h4 class="list-group-item-heading  card-list__item__heading">
+										<i class="text-warning fa fa-columns"></i> Il file risulta diviso in più parti
+									</h4>
+								</li>
+								<li class="list-group-item card-list__item" ng-if="movie.saga.isSaga">
+									<h4 class="list-group-item-heading  card-list__item__heading">
+										<i class="fa fa-book"></i> {{movie.saga.name}}
+									</h4>
+    								<p ng-if="movie.saga.chapter" class="list-group-item-text card-list__item__text">
+    									capitolo {{movie.saga.chapter + ' di ' + movie.saga.totalChapters}}
+									</p>
+									<p ng-if="movie.saga.isSpinOff" class="list-group-item-text card-list__item__text">
+    									<i><i class="text-info fa fa-info"></i> SpinOff</i>
+									</p>
+								</li>
+								<li class="list-group-item card-list__item">
+									<h4 class="list-group-item-heading  card-list__item__heading">
+										<i class="fa fa-road"></i> Percorso File
+									</h4>
+    								<p class="list-group-item-text card-list__item__text">
+    									Zona Video/Film/<b>{{movie.path}}</b>
+									</p>
+								</li>
+							</ul>
 						</div>
 
 					  </div>
 
 					  <div class="card__body">
-						  <h3 class="card__body__title">
-						  	{{movie.title}}
-						  	<small>{{movie.year}}</small>	
-						  </h3>
-						  
-						  <span ng-repeat="gen in movie.genres" class="card__body__tag">{{gen}}</span>	
+						  <div class="movie-card">
+							  <header class="movie-card__head">
+								  <h3 class="movie-card__head__title">
+									  {{movie.title}} <i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
+                                      <small class="movie-card__head__year" ng-show="movie.year">{{movie.year}}</small>
+								  </h3>
+							  </header>
+
+							  <section class="movie-card__body">
+                                  <span class="movie-card__body__tag" ng-repeat="gen in movie.genres">{{gen}}</span>
+							  </section>
+						  </div>
 					  </div>
-												
+
 					</div>
 				</div>
 
-			</div>	
+			</div>
     	</div>
-        
+
 
         <script src="assets/js/app.js"></script>
         <script src="assets/js/components/myknow.ctr.js"></script>

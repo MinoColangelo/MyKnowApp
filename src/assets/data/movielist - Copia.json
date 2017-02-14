@@ -1,842 +1,377 @@
 [
 	{
-        "quality": {
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Avengers",
+		"title": "Avengers 2 - Age of Ultron",
+		"year": "2015",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2012/08/035/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Batman",
+		"title": "Il Cavaliere Oscuro",
+		"year": "2008",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2007/02/131/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Batman",
+		"title": "Il Cavaliere Oscuro - Il Ritorno",
+		"year": "2012",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2010/07/191/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Aladdin",
-        "year": "1992",
-		"genres": ["animazione"],
-		"img": "http://pad.mymovies.it/filmclub/2002/08/148/imm.jpg",
-		"saga": false,
-    },
-    {
-        "quality": {
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Captain America",
+		"title": "Captain America - Il Primo Vendicatore",
+		"year": "2011",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2008/06/089/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "sala",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Deadpool (2016)",
+		"title": "Deadpool",
+		"year": "2016",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2009/06/131/imm.jpg",
+		"saga": false
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "Buono",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Hulk",
+		"title": "Hulk",
+		"year": "2002",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2003/08/020/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Hulk",
+		"title": "L'Incredibile Hulk",
+		"year": "2008",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2007/09/069/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/I Fantastici 4",
+		"title": "I Fantastici 4 1",
+		"year": "2005",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2005/06/030/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Alla Ricerca della Valle Incantata",
-        "year": "1988",
-		"genres": ["animazione"],
-		"img": "http://giotto.ibs.it/vjack/z84/5050582282184.jpg",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/I Fantastici 4",
+		"title": "I Fantastici 4 2 - e Silver Surfer",
+		"year": "2007",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2007/01/227/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "sala",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Alla Ricerca di Nemo",
-        "year": "",
-		"genres": ["animazione"],
+			"ext": "mkv"
+		},
+		"path": "Zona Video/Film/SuperHeroes/I Guardiani della Galassia",
+		"title": "I Guardiani della Galassia",
+		"year": "2014",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2012/07/018/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Iron Man",
+		"title": "Iron Man 1",
+		"year": "2008",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2007/02/234/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Iron Man",
+		"title": "Iron Man 2",
+		"year": "2010",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2008/12/128/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Spiderman",
+		"title": "Spiderman 1",
+		"year": "2002",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2002/06/001/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Spiderman",
+		"title": "Spiderman 2",
+		"year": "2004",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2004/07/006/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Spiderman",
+		"title": "Spiderman 3",
+		"year": "2007",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2006/03/412/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Spiderman",
+		"title": "The Amazing Spiderman",
+		"year": "2012",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2009/03/117/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Superman",
+		"title": "Superman 1 - L'Uomo d'Acciaio",
+		"year": "2013",
+		"genres": ["superheroes", "azione"],
 		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
+		"saga": false
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "American Pie - Ancora insieme",
-        "year": "",
-		"genres": ["animazione"],
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/Thor",
+		"title": "Thor 1",
+		"year": "2011",
+		"genres": ["superheroes", "azione"],
 		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
+		"saga": false
+	},
+	{
+		"quality": {
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": false,
+			"splitted": false,
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes",
+		"title": "Watchmen",
+		"year": "2009",
+		"genres": ["superheroes", "azione", "thriller"],
+		"img": "http://pad.mymovies.it/filmclub/2007/09/070/imm.jpg",
+		"saga": false
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Biancaneve e i Sette Nani",
-        "year": "",
-		"genres": ["animazione"],
+			"ext": "mkv"
+		},
+		"path": "Zona Video/Film/SuperHeroes/X-Men/L'inizio",
+		"title": "X-Men 5 - Giorni di un Futuro Passato",
+		"year": "",
+		"genres": ["superheroes", "azione"],
 		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
+		"saga": false
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Big-Hero 6",
-        "year": "",
-		"genres": ["animazione"],
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/X-Men/Wolverine",
+		"title": "Wolverine 1 - Le Origini",
+		"year": "",
+		"genres": ["superheroes", "azione"],
 		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
+		"saga": false
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Cattivissimo Me",
-        "year": "",
-		"genres": ["animazione"],
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/X-Men/Wolverine",
+		"title": "Wolverine 2 - l'Immortale",
+		"year": "",
+		"genres": ["superheroes", "azione"],
 		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
+		"saga": false
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Cenerentola - Il Gioco Del Destino",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/X-Men",
+		"title": "X-Men 1",
+		"year": "2000",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2006/06/107/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Cenerentola",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/X-Men",
+		"title": "X-Men 2",
+		"year": "2002",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2003/04/041/imm.jpg",
+		"saga": true
+	},
+	{
+		"quality": {
 			"video" : "",
 			"audio" : "",
 			"sub": false,
 			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Dragon Ball Z OAV - Il Diabolico Guerriero Degli Inferi",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Dragon Ball Z OAV - La Battaglia degli Dei",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Epic - Il Mondo Segreto",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Fantasia",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "mkv"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Frozen - Fever",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Frozen - Il Regno di Ghiaccio",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Gli Aristogatti",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Gli Incredibili",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "I Pinguini di Madacascar - La giornata di Re Julien",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "I Puffi",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "I Simpson_Il Film",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Il Piccolo Principe",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Il Re Leone 1 - Special Edition 2003",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione/Il Viaggio di Arlo",
-        "title": "Il Viaggio di Arlo",
-        "year": "2015",
-		"genres": ["animazione"],
-		"img": "http://pad.mymovies.it/filmclub/2012/04/143/imm.jpg",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Kubo e la Spada Magica",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Kung Fu Panda 1",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Kung Fu Panda 2",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Kung Fu Panda 3",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "La bella addormentata nel bosco",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "La Bella e La Bestia",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "La Sirenetta",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "La Spada nella Roccia",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Le 5 Leggende",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Le avventure di Peter Pan",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Le Follie Dell'imperatore",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "L'Era Glaciale 1",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "L'Era Glaciale 2 - Il Disgelo",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "L'Era Glaciale 3 - L'Alba dei Dinosauri",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Lilli e il Vagabondo",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Madagascar 1",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Madagascar 2",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Megamind",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Monsters & Co.",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Monsters.University.2013.iTALiAN.AC3.BRRip.XviD-T4P3",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Mostri Contro Alieni",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Mulan",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Pocahontas",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Ralph Spaccatutto",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Rapunzel - L'intreccio della torre",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Ribelle - The Brave",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Robin Hood",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "The Nightmare Before Christmas",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Toy Story 1",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Toy Story 2",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Toy Story 3 - La Grande Fuga",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione",
-        "title": "Up - L'uomo dei palloncini",
-        "year": "",
-		"genres": ["animazione"],
-		"img": "assets/img/no-pic.png",
-		"saga": false,
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Animazione/Zootropolis (2016)",
-        "title": "Zootropolis",
-        "year": "2016",
-		"genres": ["animazione"],
-		"img": "http://pad.mymovies.it/filmclub/2013/08/079/imm.jpg",
-		"saga": false,
-    },    
+			"ext": "avi"
+		},
+		"path": "Zona Video/Film/SuperHeroes/X-Men",
+		"title": "X-Men 3 - Conflitto finale",
+		"year": "2006",
+		"genres": ["superheroes", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2006/02/386/imm.jpg",
+		"saga": true
+	}
 ]
