@@ -39,9 +39,9 @@
         },
         "path": "Zona Video/Film/Animazione",
         "title": "Alla Ricerca di Nemo",
-        "year": "",
+        "year": "2003",
 		"genres": ["animazione"],
-		"img": "",
+		"img": "http://pad.mymovies.it/filmclub/2003/12/003/imm.jpg",
 		"saga": false
     },
     {
@@ -2926,18 +2926,33 @@
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
+			"video" : "BdRip",
+			"audio" : "AC3",
+			"sub": true,
 			"splitted": false,
-        	"ext": "avi"
+        	"ext": "mkv"
+        },
+        "path": "Zona Video/Film/Fantascienza/Alien",
+        "title": "Avatar",
+        "year": "2009",
+		"genres": ["fantascienza", "drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2008/03/090/imm.jpg",
+		"saga": false
+    },
+    {
+        "quality": {
+            "video" : "",
+            "audio" : "",
+            "sub": false,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantascienza/Alien",
         "title": "Alien 1",
         "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "genres": ["movie"],
+        "img": "assets/img/no-pic.png",
+        "saga": false
     },
     {
         "quality": {
@@ -4171,123 +4186,123 @@
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 1 - E la Pietra Filosofale (2001)",
-        "title": "Harry Potter e la pietra filosofale.ita.eng.sub.ita.eng.MIRCrew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e la pietra filosofale",
+        "year": "2001",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2001/12/001/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 2 - E la Camera dei segreti (2002)",
-        "title": "Harry Potter e la Camera dei segreti.ita.eng.sub.ita.eng.MIRCrew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e la Camera dei segreti",
+        "year": "2002",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2002/12/001/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 3 - E il Prigioniero di Azkaban (2004)",
-        "title": "Harry Potter e il prigioniero di Azkaban.Ita.Eng.sub.ita.eng-MIRCRew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e il prigioniero di Azkaban",
+        "year": "2004",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2004/05/031/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 4 - E Il Calice di Fuoco (2005)",
-        "title": "Harry Potter e Il Calice di Fuoco.ita.eng.sub.ita.eng-MIRCrew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e Il Calice di Fuoco",
+        "year": "2005",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2005/06/034/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 5 - E l'Ordine della Fenice (2007)",
-        "title": "Harry Potter e L'Ordine della Fenice - Harry Potter and the Order of the Phoenix (2007)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e L'Ordine della Fenice",
+        "year": "2007",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2006/11/182/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
-        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 6 - E il Principe Mezzosangue  (2009)",
-        "title": "Harry Potter e il Principe mezzosangue - Harry Potter and the Half-Blood Prince (2009)-MIRCrew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 6 - E il Principe Mezzosangue (2009)",
+        "title": "Harry Potter e il Principe mezzosangue",
+        "year": "2009",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2007/02/129/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 7 - E i Doni della morte -Parte I (2011)",
-        "title": "Harry Potter e i Doni della morte -Parte I-MIRCrew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e i Doni della morte - Parte I",
+        "year": "2011",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2008/06/003/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": true,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Harry Potter Full Collection Movies/Harry Potter 7 - E i Doni della morte -Parte II (2012)",
-        "title": "Harry Potter e i Doni della morte -Parte II - MIRCrew",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
+        "title": "Harry Potter e i Doni della morte -Parte II",
+        "year": "2012",
+		"genres": ["fantasy", "avventura"],
+		"img": "http://pad.mymovies.it/filmclub/2009/08/023/imm.jpg",
+		"saga": true
     },
     {
         "quality": {
@@ -4449,55 +4464,40 @@
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
         "title": "Le Cronache di Narnia 1 - Il Leone, la Strega e l'Armadio",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2005",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2005/06/048/imm.jpg",
 		"saga": false
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
+			"video" : "BdRip",
+			"audio" : "sala",
 			"sub": false,
-			"splitted": false,
+			"splitted": true,
         	"ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
-        "title": "Le Cronache di Narnia 2 - Il Principe Caspian (Tempo1)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Le Cronache di Narnia 2 - Il Principe Caspian",
+        "year": "2008",
+		"genres": ["avventura", "fantasy", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2007/09/068/imm.jpg",
 		"saga": false
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
+			"video" : "BdRip",
+            "audio" : "AC3",
+            "sub": false,
+            "splitted": false,
+            "ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
-        "title": "Le Cronache di Narnia 2 - Il Principe Caspian (Tempo2)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Zona Video/Film/Fantasy.Avventura.Epica/Le Cronache di Narnia",
-        "title": "Le Cronache di Narnia 2 - Il Principe Caspianes",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": true
+        "title": "Le Cronache di Narnia 2 - Il Principe Caspian",
+        "year": "2008",
+        "genres": ["avventura", "fantasy", "epico"],
+        "img": "http://pad.mymovies.it/filmclub/2007/09/068/imm.jpg",
+        "saga": false
     },
     {
         "quality": {
@@ -4508,7 +4508,7 @@
         	"ext": "avi"
         },
         "path": "Zona Video/Film/Fantasy.Avventura.Epica/Lo Hobbit - Trilogy/Lo Hobbit 1 - Un Viaggio Inaspettato  (2012)",
-        "title": "Lo Hobbit Un Viaggio Inaspettato",
+        "title": "Lo Hobbit 1 - Un Viaggio Inaspettato",
         "year": "2012",
 		"genres": ["avventura", "fantasy", "epico"],
 		"img": "http://pad.mymovies.it/filmclub/2009/04/151/imm.jpg",

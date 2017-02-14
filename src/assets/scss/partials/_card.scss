@@ -74,5 +74,58 @@ $card-height: 330px;
 			}
 		}
 	}
+
+	&__details {
+	    position: absolute;
+	    top: 2px;
+	    right: 2px;
+	    bottom: 2px;
+	    left: 2px;
+		padding: 25px 5px;	    
+	    
+	    color: white;
+	    border-radius: 5px;
+	    background-color: rgba(0,0,0,0.7);
+	    @include md-shadow(5);
+	    
+	    display: flex;
+	    flex-direction: column;
+	    justify-content: center;
+	    overflow-y: auto;
+	    overflow-x: hidden;
+		&__table {
+			width:100%;
+			tr {
+				margin-bottom: 5px;
+				border-bottom: 1px dotted rgba(white, 0.4);
+				&:last-child {
+					border-bottom:none;
+				}	
+				td {
+					padding:2px;
+					text-align: left;
+					&:last-child {
+						text-align: right;
+					}	
+				}
+			}
+		}
+	    &__btn {
+			position: absolute;
+			width: 25px;
+			height: 25px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			top: 2px;
+			right: 2px;
+			background: transparent;
+			border: none;
+			color: rgba(white, 0.7);
+			font-size: 20px;
+		}
+	}
+
+	    
 	
 }

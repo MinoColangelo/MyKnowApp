@@ -73,19 +73,50 @@
 					<div class="card flex-list__item"
 						ng-repeat="movie in movies |
 						           filter: generalSearch |
-						           filter: genre">
+						           filter: genre |
+						           orderBy: movie.title">
 					  
 					  <div class="card__img">
 					  	<button class="btn card__img__btn" ng-show="!showDetails" ng-click="showDetails = true">
 							<i class="glyphicon glyphicon-plus"></i>
 					  	</button>
-						<button class="btn card__img__btn" ng-show="showDetails" ng-click="showDetails = false">
-							<i class="glyphicon glyphicon-close"></i>
-						</button>
 						<img ng-src="{{movie.img}}" alt="{{movie.title}}">
+
+						<div ng-show="showDetails" class="card__details">
+							<table class="card__details__table">
+								<tr>
+									<td>Video</td>
+									<td>{{movie.quality.video}}</td>
+								</tr>
+								<tr>
+									<td>Audio</td>
+									<td>{{movie.quality.audio}}</td>
+								</tr>
+								<tr>
+									<td>Estensione</td>
+									<td>{{movie.quality.ext}}</td>
+								</tr>
+								<tr ng-show="movie.quality.splitted">
+									<td>Diviso</td>
+									<td><i class="text-warning glyphicon glyphicon-warning-sign"></i></td>
+								</tr>
+								<tr ng-show="movie.saga">
+									<td>Saga</td>
+									<td><i class="text-info glyphicon glyphicon-link"></i></td>
+								</tr>
+								
+							</table>
+							<div class="form-group">
+						        <input type="text" class="form-control" value="{{movie.path}}">
+						    </div>
+						    <button class="card__details__btn" ng-show="showDetails" ng-click="showDetails = false">
+								<i class="glyphicon glyphicon-remove-circle"></i>
+							</button>
+						</div>
+
 					  </div>
 
-					  <div ng-show="!showDetails" class="card__body">
+					  <div class="card__body">
 						  <h3 class="card__body__title">
 						  	{{movie.title}}
 						  	<small>{{movie.year}}</small>	
@@ -94,18 +125,6 @@
 						  <span ng-repeat="gen in movie.genres" class="card__body__tag">{{gen}}</span>	
 					  </div>
 												
-						<dl ng-show="showDetails" class="card__details">
-						  <dt>Video</dt>
-						  <dd>{{movie.quality.video}}</dd>
-						  <dt>Audio</dt>
-						  <dd>{{movie.quality.audio}}</dd>
-						  <dt>Estensione</dt>
-						  <dd>{{movie.quality.ext}}</dd>
-						  <dt>Diviso</dt>
-						  <dd><i class="glyphicon glyphicon-plus"></i></dd>
-						  <dt>Percorso</dt>
-						  <dd>{{movie.path}}</dd>
-						</dl>
 					</div>
 				</div>
 
