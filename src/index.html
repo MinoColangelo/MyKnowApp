@@ -17,10 +17,13 @@
     </head>
     <body ng-app="MyKnow" ng-controller="MyKnowCtrl">
     	<div class="wrapper">
+
 	    	<nav class="navbar">
 				<div class="container-fluid">
 				    <div class="navbar-header">
-				      <a class="navbar-brand" href="#">{{title}}</a>
+				    	<a class="navbar-menu" ng-show="!sidebarActive" ng-click="sidebarActive = true" href="#nogo"><i class="fa fa-bars"></i></a>
+				    	<a class="navbar-menu" ng-show="sidebarActive" ng-click="sidebarActive = false" href="#nogo"><i class="fa fa-times"></i></a>
+				        <a class="navbar-brand" href="#">{{title}}</a>
 			    	</div>
 			    </div>
 			</nav>
@@ -49,87 +52,89 @@
 					</form>
 				</aside>
 
-				<aside class="container-fluid flex-container__sidebar flex-sidebar">
+				<aside class="flex-container__sidebar flex-sidebar" ng-class="sidebarActive ? 'flex-container__sidebar--active' : ''">
+					<div class="container-fluid">
+						<form class="form">
 
-					<form class="form">
+					      <div class="form-group">
+					        <input type="text" class="form-control" placeholder="Cerca Film per Titolo, Anno, Genere..." ng-model="generalSearch">
+					      </div>
 
-				      <div class="form-group">
-				        <input type="text" class="form-control" placeholder="Cerca Film per Titolo, Anno, Genere..." ng-model="generalSearch">
-				      </div>
+						  <div class="form-group">
+						    <label>Genere</label>
+						    <select class="form-control" ng-model="genre">
+						    	<option value="">Seleziona il genere</option>
+						    	<option ng-repeat="genre in genres" value="{{genre}}">{{genre}}</option>
+						    </select>
+						  </div>
 
-					  <div class="form-group">
-					    <label>Genere</label>
-					    <select class="form-control" ng-model="genre">
-					    	<option value="">Seleziona il genere</option>
-					    	<option ng-repeat="genre in genres" value="{{genre}}">{{genre}}</option>
-					    </select>
-					  </div>
+						  <h1>{{movies.length}}</h1>
 
-					  <h1>{{movies.length}}</h1>
-
-					</form>
-
+						</form>	
+					</div>
 				</aside>
 
-				<div class="flex-container__body flex-list">
-					<div class="card flex-list__item"
-						ng-repeat="movie in movies |
-						           filter: generalSearch |
-						           filter: genre |
-						           orderBy: movie.title">
+				<div class="flex-container__body" ng-class="sidebarActive ? 'flex-container__body--active' : ''">
+					<div class="flex-list">
+						<div class="card flex-list__item"
+							ng-repeat="movie in movies |
+							           filter: generalSearch |
+							           filter: genre |
+							           orderBy: movie.title">
 
-					  <div class="card__preview">
-                          <button class="btn card__preview__btn" ng-show="!showDetails" ng-click="showDetails = true; imgBlur = 'blur'">
-                              <i class="fa fa-ellipsis-v"></i>
-                          </button>
-                          <div ng-show="showDetails" class="card-details">
-                              <button class="card-details__btn" ng-show="showDetails" ng-click="showDetails = false; imgBlur = ''">
-                                  <i class="fa fa-times"></i>
-                              </button>
+						  <div class="card__preview">
+	                          <button class="btn card__preview__btn" ng-show="!showDetails" ng-click="showDetails = true; imgBlur = 'blur'">
+	                              <i class="fa fa-ellipsis-v"></i>
+	                          </button>
+	                          <div ng-show="showDetails" class="card-details">
+	                              <button class="card-details__btn" ng-show="showDetails" ng-click="showDetails = false; imgBlur = ''">
+	                                  <i class="fa fa-times"></i>
+	                              </button>
 
-                              <header class="card-details__heading">
-                                  <h6>{{movie.title}}</h6>
-                              </header>
+	                              <header class="card-details__heading">
+	                                  <h6>{{movie.title}}</h6>
+	                              </header>
 
-                              <section class="card-details__body">
-                                  <p>
-                                      <small>Zona Video/Film/{{movie.path}}</small>
-                                  </p>
-                                  <p ng-if="movie.quality.splitted">
-                                      File diviso <i class="text-warning fa fa-clone"></i>
-                                  </p>
-                                  <p ng-if="movie.saga.isSpinOff">
-                                      Spinoff della serie di <i>{{movie.saga.name}}</i>
-                                  </p>
-                                  <p ng-if="movie.saga.chapter">
-                                      Film {{movie.saga.chapter}} di {{movie.saga.totalChapters}}
-                                  </p>
-                              </section>
+	                              <section class="card-details__body">
+	                                  <p>
+	                                      <small>Zona Video/Film/{{movie.path}}</small>
+	                                  </p>
+	                                  <p ng-if="movie.quality.splitted">
+	                                      File diviso <i class="text-warning fa fa-clone"></i>
+	                                  </p>
+	                                  <p ng-if="movie.saga.isSpinOff">
+	                                      Spinoff della serie di <i>{{movie.saga.name}}</i>
+	                                  </p>
+	                                  <p ng-if="movie.saga.chapter">
+	                                      Film {{movie.saga.chapter}} di {{movie.saga.totalChapters}}
+	                                  </p>
+	                              </section>
 
-                          </div>
+	                          </div>
 
-                          <div class="card__preview__img-frame">
-                              <img ng-class="imgBlur" ng-src="{{movie.img}}" alt="{{movie.title}}">
-                          </div>
+	                          <div class="card__preview__img-frame">
+	                              <img ng-class="imgBlur" ng-src="{{movie.img}}" alt="{{movie.title}}">
+	                          </div>
 
 
-					  </div>
-
-					  <div class="card__body">
-						  <div class="movie-card">
-							  <header class="movie-card__head">
-								  <h3 class="movie-card__head__title">
-									  {{movie.title}} <i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
-                                      <small class="movie-card__head__year" ng-show="movie.year">{{movie.year}}</small>
-								  </h3>
-							  </header>
-
-							  <section class="movie-card__body">
-                                  <span class="movie-card__body__tag" ng-repeat="gen in movie.genres">{{gen}}</span>
-							  </section>
 						  </div>
-					  </div>
 
+						  <div class="card__body">
+							  <div class="movie-card">
+								  <header class="movie-card__head">
+									  <h3 class="movie-card__head__title">
+										  {{movie.title}} <i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
+	                                      <small class="movie-card__head__year" ng-show="movie.year">{{movie.year}}</small>
+									  </h3>
+								  </header>
+
+								  <section class="movie-card__body">
+	                                  <span class="movie-card__body__tag" ng-repeat="gen in movie.genres">{{gen}}</span>
+								  </section>
+							  </div>
+						  </div>
+
+						</div>
 					</div>
 				</div>
 

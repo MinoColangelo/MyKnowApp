@@ -5,7 +5,52 @@
 	border-radius: 0;
 	box-shadow: none;
 	border-bottom: 1px solid #ccc;
+		
+	&-header {
+	    display: flex;
+	    flex-wrap: wrap;
+	    align-items: center;
+	    position: relative;
+	    padding-left: 60px;
+	    @include da(md) {
+			padding-left: 0;
+		}
+
+	}
+
+	&-menu {
+		display: inline-block;
+    	font-size: 30px;
+    	padding: 0 10px;
+    	line-height: 40px;
+    	border-radius: 4px;
+    	transition: all 0.5s;
+    	position: absolute;
+    	left: 15px;
+		
+		&.ng-hide {
+			transform: scale(0);
+			opacity:0;
+			&.ng-hide-active {
+				transform: scale(1);
+				opacity: 1;
+			}
+		}
+
+    	@include da(md) {
+			left: -100px;
+		}
+
+		&:hover,
+		&:active {
+			background-color: rgba(black, 0.15);
+			
+		}
+
+	}
+
 	&-brand {
 		font-family: 'Raleway', sans-serif;
 	}
+    
 }

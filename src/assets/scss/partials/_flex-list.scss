@@ -1,15 +1,39 @@
 .flex-list {
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
 	overflow-y: auto;
 	overflow-x: hidden;
 	padding: 20px;
+    height: 100%;
+	
+	@include da(md) {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+		align-items: stretch;
+	}	
 
 	&__item {
-		margin: 5px 40px 5px 10px;
-		transition: all 250ms;
-		transform: scale(1);
+		transition: all 0.5s;
 		z-index: 5;
+		margin-bottom: 10px;
+		padding: 5px 10px;
+	    border-radius: 5px;
+	    
+		&:last-child {
+			margin-bottom: 0;
+		}
+
+		&:hover,
+		&:active {
+			background-color: rgba(white, 0.1);
+		}
+
+		@include da(md) {
+			margin: 5px 40px 5px 10px;
+			&:hover,
+			&:active {
+				background-color: none;
+			}
+		}	
 	}
 }
