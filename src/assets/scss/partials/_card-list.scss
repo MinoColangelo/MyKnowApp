@@ -1,0 +1,33 @@
+.card-list {
+	background: transparent;
+	border: none;
+    color: inherit;
+
+	&__item {
+		background-color: transparent;
+		font-size: 13px;
+		border: none;
+		padding: 8px 5px;
+		border-radius: 0;
+        color: inherit;
+		&:last-child {
+			border: none;
+		}
+		&__heading {
+			font-size: 100%;
+			margin: 0;
+			color: inherit;
+		}
+
+		&__text {
+			font-size: 90%;
+			color: inherit;
+			word-break: break-word;
+		}
+
+		&__heading + &__text {
+			margin-top: 5px;
+		}
+
+	}
+}

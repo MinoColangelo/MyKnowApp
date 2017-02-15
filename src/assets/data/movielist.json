@@ -289,10 +289,10 @@
 		"genres": ["animazione", "disney", "corto"],
 		"img": "http://pad.mymovies.it/filmclub/2015/02/154/imm.jpg",
 		"saga": {
-			"isSaga": true,
+			"isSaga": false,
 			"name": "Frozen",
-			"totalChapters": "1",
-			"chapter": "1",
+			"totalChapters": "",
+			"chapter": "",
 			"isPrequel": false,
 			"isSpinOff": true
 		},
@@ -382,11 +382,11 @@
 		"img": "assets/img/no-pic.png",
 		"saga": {
 			"isSaga": false,
-			"name": "",
+			"name": "Madacascar",
 			"totalChapters": "",
 			"chapter": "",
 			"isPrequel": false,
-			"isSpinOff": false
+			"isSpinOff": true
 		},
 		"isRemake": false
     },
@@ -565,10 +565,10 @@
 		"genres": ["animazione"],
 		"img": "http://pad.mymovies.it/filmclub/2009/04/077/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Kung Fu Panda",
+			"totalChapters": "3",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -588,10 +588,10 @@
 		"genres": ["animazione"],
 		"img": "http://pad.mymovies.it/filmclub/2015/06/065/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Kung Fu Panda",
+			"totalChapters": "3",
+			"chapter": "3",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6362,9 +6362,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2001/12/001/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6385,9 +6385,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2002/12/001/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6408,9 +6408,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2004/05/031/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "3",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6431,9 +6431,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2005/06/034/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "4",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6454,9 +6454,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2006/11/182/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "5",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6477,9 +6477,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2007/02/129/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "6",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6500,9 +6500,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2008/06/003/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "7",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6523,9 +6523,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2009/08/023/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Harry Potter",
+			"totalChapters": "8",
+			"chapter": "8",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6546,9 +6546,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2002/01/011/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Il Signore degli Anelli",
+			"totalChapters": "3",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6569,9 +6569,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2003/01/012/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Il Signore degli Anelli",
+			"totalChapters": "3",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -6592,9 +6592,9 @@
 		"img": "http://pad.mymovies.it/filmclub/2004/01/014/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"name": "Il Signore degli Anelli",
+			"totalChapters": "3",
+			"chapter": "3",
 			"isPrequel": false,
 			"isSpinOff": false
 		},

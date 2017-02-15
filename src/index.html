@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="assets/css/style.css">
 
         <script src="../bower_components/angular/angular.js"></script>
+
     </head>
     <body ng-app="MyKnow" ng-controller="MyKnowCtrl">
     	<div class="wrapper">
@@ -77,60 +78,40 @@
 						           filter: genre |
 						           orderBy: movie.title">
 
-					  <div class="card__img">
-					  	<button class="btn card__img__btn" ng-show="!showDetails" ng-click="showDetails = true">
-							<i class="glyphicon glyphicon-plus"></i>
-					  	</button>
-						<img ng-src="{{movie.img}}" alt="{{movie.title}}">
+					  <div class="card__preview">
+                          <button class="btn card__preview__btn" ng-show="!showDetails" ng-click="showDetails = true; imgBlur = 'blur'">
+                              <i class="fa fa-ellipsis-v"></i>
+                          </button>
+                          <div ng-show="showDetails" class="card-details">
+                              <button class="card-details__btn" ng-show="showDetails" ng-click="showDetails = false; imgBlur = ''">
+                                  <i class="fa fa-times"></i>
+                              </button>
 
-						<div ng-show="showDetails" class="card__details">
+                              <header class="card-details__heading">
+                                  <h6>{{movie.title}}</h6>
+                              </header>
 
-							<button class="card__details__btn" ng-show="showDetails" ng-click="showDetails = false">
-								<i class="fa fa-time"></i>
-							</button>
+                              <section class="card-details__body">
+                                  <p>
+                                      <small>Zona Video/Film/{{movie.path}}</small>
+                                  </p>
+                                  <p ng-if="movie.quality.splitted">
+                                      File diviso <i class="text-warning fa fa-clone"></i>
+                                  </p>
+                                  <p ng-if="movie.saga.isSpinOff">
+                                      Spinoff della serie di <i>{{movie.saga.name}}</i>
+                                  </p>
+                                  <p ng-if="movie.saga.chapter">
+                                      Film {{movie.saga.chapter}} di {{movie.saga.totalChapters}}
+                                  </p>
+                              </section>
 
-							<ul class="list-group card-list">
-								<li class="list-group-item card-list__item" ng-if="movie.quality.video">
-									<h4 class="list-group-item-heading  card-list__item__heading">
-										<i class="fa fa-video-camera"></i> Video: <b>{{movie.quality.video}}</b>
-									</h4>
-								</li>
-								<li class="list-group-item card-list__item" ng-if="movie.quality.audio">
-									<h4 class="list-group-item-heading  card-list__item__heading">
-										<i class="fa fa-volume-up"></i> Audio: <b>{{movie.quality.audio}}</b>
-									</h4>
-								</li>
-								<li class="list-group-item card-list__item" ng-if="movie.quality.ext">
-									<h4 class="list-group-item-heading  card-list__item__heading">
-										<i class="fa fa-file-o"></i> File: <b>{{movie.quality.ext}}</b>
-									</h4>
-								</li>
-								<li class="list-group-item card-list__item" ng-if="movie.quality.splitted">
-									<h4 class="list-group-item-heading  card-list__item__heading">
-										<i class="text-warning fa fa-columns"></i> Il file risulta diviso in più parti
-									</h4>
-								</li>
-								<li class="list-group-item card-list__item" ng-if="movie.saga.isSaga">
-									<h4 class="list-group-item-heading  card-list__item__heading">
-										<i class="fa fa-book"></i> {{movie.saga.name}}
-									</h4>
-    								<p ng-if="movie.saga.chapter" class="list-group-item-text card-list__item__text">
-    									capitolo {{movie.saga.chapter + ' di ' + movie.saga.totalChapters}}
-									</p>
-									<p ng-if="movie.saga.isSpinOff" class="list-group-item-text card-list__item__text">
-    									<i><i class="text-info fa fa-info"></i> SpinOff</i>
-									</p>
-								</li>
-								<li class="list-group-item card-list__item">
-									<h4 class="list-group-item-heading  card-list__item__heading">
-										<i class="fa fa-road"></i> Percorso File
-									</h4>
-    								<p class="list-group-item-text card-list__item__text">
-    									Zona Video/Film/<b>{{movie.path}}</b>
-									</p>
-								</li>
-							</ul>
-						</div>
+                          </div>
+
+                          <div class="card__preview__img-frame">
+                              <img ng-class="imgBlur" ng-src="{{movie.img}}" alt="{{movie.title}}">
+                          </div>
+
 
 					  </div>
 
@@ -155,7 +136,7 @@
 			</div>
     	</div>
 
-
+        <script src="../bower_components/angular-animate/angular-animate.js"></script>
         <script src="assets/js/app.js"></script>
         <script src="assets/js/components/myknow.ctr.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
