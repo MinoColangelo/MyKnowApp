@@ -13,7 +13,6 @@
         <link rel="stylesheet" href="assets/css/style.css">
 
         <script src="../bower_components/angular/angular.js"></script>
-
     </head>
     <body ng-app="MyKnow" ng-controller="MyKnowCtrl">
     	<div class="wrapper">
@@ -92,7 +91,9 @@
 	                              </button>
 
 	                              <header class="card-details__heading">
-	                                  <h6>{{movie.title}}</h6>
+	                                  <h6>
+	                                      {{movie.title}}
+	                                  </h6>
 	                              </header>
 
 	                              <section class="card-details__body">
@@ -123,7 +124,9 @@
 							  <div class="movie-card">
 								  <header class="movie-card__head">
 									  <h3 class="movie-card__head__title">
-										  {{movie.title}} <i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
+									  	  <a href="https://www.google.it/search?q={{movie.title}}%20{{movie.year}}%20mymovies" target="_blank">
+	                                  		{{movie.title}}	<i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
+	                                  	  </a>
 	                                      <small class="movie-card__head__year" ng-show="movie.year">{{movie.year}}</small>
 									  </h3>
 								  </header>

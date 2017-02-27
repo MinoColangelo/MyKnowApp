@@ -5,6 +5,13 @@
       font-size: 14px;
       color: #cecece;
       margin: 0 0 10px 0;
+      a {
+        color: inherit;
+        &:hover {
+          color: #cecece;
+          text-decoration: underline;
+        }
+      }
     }
     &__subtitle {
       display: block;

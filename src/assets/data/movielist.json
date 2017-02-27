@@ -1297,9 +1297,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "American Gangster",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2007/06/049/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1366,9 +1366,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Bastardi Senza Gloria",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2009",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2008/10/105/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1377,7 +1377,7 @@
 			"isPrequel": false,
 			"isSpinOff": false
 		},
-		"isRemake": false
+		"isRemake": true
     },
     {
         "quality": {
@@ -1480,15 +1480,15 @@
         	"ext": "avi"
         },
         "path": "Azione.Dramma.Thriller/Fast & Furious",
-        "title": "Fast & Furious 1",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Fast & Furious",
+        "year": "2001",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2001/09/013/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Fast & Furious",
+			"totalChapters": "9",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -1503,15 +1503,15 @@
         	"ext": "avi"
         },
         "path": "Azione.Dramma.Thriller/Fast & Furious",
-        "title": "Fast & Furious 2 - 2Fast 2Furios",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "2Fast 2Furios",
+        "year": "2003",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2003/06/020/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Fast & Furious",
+            "totalChapters": "9",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -1526,17 +1526,17 @@
         	"ext": "avi"
         },
         "path": "Azione.Dramma.Thriller/Fast & Furious",
-        "title": "Fast & Furious 3 - Tokio Drift",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Fast & Furious 3 - Tokyo Drift",
+        "year": "2006",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2006/06/129/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Fast & Furious",
+            "totalChapters": "9",
+			"chapter": "3",
 			"isPrequel": false,
-			"isSpinOff": false
+			"isSpinOff": true
 		},
 		"isRemake": false
     },
@@ -1549,16 +1549,16 @@
         	"ext": "avi"
         },
         "path": "Azione.Dramma.Thriller/Fast & Furious",
-        "title": "Fast & Furious 4 - Solo Parti Originali",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Fast & Furious - Solo Parti Originali",
+        "year": "2009",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2008/08/209/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
+			"isSaga": true,
+            "name": "Fast & Furious",
+            "totalChapters": "9",
+			"chapter": "4",
+			"isPrequel": true,
 			"isSpinOff": false
 		},
 		"isRemake": false
@@ -1573,14 +1573,14 @@
         },
         "path": "Azione.Dramma.Thriller/Fast & Furious",
         "title": "Fast & Furious 5",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2011",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2010/02/075/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Fast & Furious",
+            "totalChapters": "9",
+			"chapter": "5",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -1596,9 +1596,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Fight Club",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1999",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2001/11/012/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1619,32 +1619,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Forrest Gump",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Azione.Dramma.Thriller",
-        "title": "Fury",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1994",
+		"genres": ["drammatico", "commedia", "cult"],
+		"img": "http://pad.mymovies.it/filmclub/2006/08/130/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1711,9 +1688,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Hancock",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2008/01/093/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1734,9 +1711,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "He Got Game",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1998",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2006/09/044/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1749,40 +1726,17 @@
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
+			"video" : "BdRip",
+			"audio" : "AC3",
 			"sub": false,
 			"splitted": false,
         	"ext": "mkv"
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Her -Lei",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Azione.Dramma.Thriller",
-        "title": "I Guerrieri della Notte",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2013",
+		"genres": ["commedia", "fantascienza", "drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2012/02/004/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1803,9 +1757,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "I Sogni Segreti di Walter Mitty",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2013",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2013/08/002/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -1959,37 +1913,14 @@
 			"video" : "",
 			"audio" : "",
 			"sub": false,
-			"splitted": false,
+			"splitted": true,
         	"ext": "avi"
         },
         "path": "Azione.Dramma.Thriller",
-        "title": "Invictus CD1",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Azione.Dramma.Thriller",
-        "title": "Invictus CD2",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Invictus (2CD)",
+        "year": "2009",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2009/06/030/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2377,29 +2308,6 @@
         	"ext": "avi"
         },
         "path": "Azione.Dramma.Thriller",
-        "title": "Outlander - L'Ultimo Vichingo",
-        "year": "2009",
-		"genres": ["azione", "fantascienza", "trash"],
-		"img": "http://pad.mymovies.it/filmclub/2008/08/081/imm.jpg",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Azione.Dramma.Thriller",
         "title": "Peaceful Warrior - La forza del campione",
         "year": "2006",
 		"genres": ["drammatico"],
@@ -2424,9 +2332,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Pretty Woman",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1990",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2006/05/267/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2447,9 +2355,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Pulp Fiction",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1994",
+		"genres": ["pulp", "drammatico", "cult", "grottesco"],
+		"img": "http://pad.mymovies.it/filmclub/2006/08/102/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2491,57 +2399,11 @@
 			"splitted": false,
         	"ext": "avi"
         },
-        "path": "Azione.Dramma.Thriller",
-        "title": "Red 2",
-        "year": "",
-		"genres": ["azione"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
         "path": "Azione.Dramma.Thriller/Revenant - Redivivo (2015)",
         "title": "Revenant - Redivivo",
         "year": "2015",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "mp4"
-        },
-        "path": "Azione.Dramma.Thriller",
-        "title": "Revenant - Redivivo",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+		"genres": ["avventura", "drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2011/11/053/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2562,9 +2424,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Revolver",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2005",
+		"genres": ["drammatico", "azione"],
+		"img": "http://pad.mymovies.it/filmclub/2007/21/518/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2585,9 +2447,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Risvegli",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1990",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2006/09/082/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2608,9 +2470,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Scarface",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1983",
+		"genres": ["drammatico", "cult"],
+		"img": "http://pad.mymovies.it/filmclub/2006/02/135/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2631,9 +2493,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Serendipity - Quando l'Amore è Magia",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2001",
+		"genres": ["commedia"],
+		"img": "http://giotto.ibs.it/vjack/z18/8007038050818.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2654,32 +2516,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Seven",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Azione.Dramma.Thriller",
-        "title": "Sex And The City",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1995",
+		"genres": ["thriller", "poliziesco"],
+		"img": "http://pad.mymovies.it/filmclub/2006/08/218/immpg2.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -2700,9 +2539,9 @@
         },
         "path": "Azione.Dramma.Thriller",
         "title": "Shutter Island",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2010",
+		"genres": ["drammatico", "thriller"],
+		"img": "http://pad.mymovies.it/filmclub/2009/03/099/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -4394,17 +4233,17 @@
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
+			"video" : "BdRip",
+			"audio" : "AC3",
 			"sub": false,
 			"splitted": false,
         	"ext": "mp4"
         },
         "path": "Documentari",
         "title": "Inside Job",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2010",
+		"genres": ["documentario"],
+		"img": "http://pad.mymovies.it/filmclub/2010/05/030/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -4793,9 +4632,9 @@
         },
         "path": "Fantascienza/Ex Machina",
         "title": "Ex Machina",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2014",
+		"genres": ["drammatico", "thriller"],
+		"img": "http://pad.mymovies.it/filmclub/2014/09/110/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -4816,9 +4655,9 @@
         },
         "path": "Fantascienza",
         "title": "Franklyn",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2009/01/123/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -4834,42 +4673,19 @@
 			"video" : "",
 			"audio" : "",
 			"sub": false,
-			"splitted": false,
+			"splitted": true,
         	"ext": "avi"
         },
         "path": "Fantascienza/G.I. Joe",
-        "title": "G.I. Joe - La Nascita dei Cobra (Tempo1)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "G.I. Joe - La Nascita dei Cobra",
+        "year": "2009",
+		"genres": ["azione", "fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2008/12/013/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Fantascienza/G.I. Joe",
-        "title": "G.I. Joe - La Nascita dei Cobra (Tempo2)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "G.I. Joe",
+			"totalChapters": "2",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -4885,14 +4701,14 @@
         },
         "path": "Fantascienza/G.I. Joe",
         "title": "G.I. Joe - La Vendetta",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2012",
+		"genres": ["azione"],
+		"img": "http://pad.mymovies.it/filmclub/2011/03/066/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "G.I. Joe",
+            "totalChapters": "2",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -4908,9 +4724,9 @@
         },
         "path": "Fantascienza",
         "title": "Gattaca - La porta dell'universo",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "1997",
+		"genres": ["fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2001/03/001/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -4931,9 +4747,9 @@
         },
         "path": "Fantascienza",
         "title": "Gravity",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2013",
+		"genres": ["fantascienza", "drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2010/09/146/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -5643,15 +5459,15 @@
         	"ext": "avi"
         },
         "path": "Fantascienza/Matrix",
-        "title": "Matrix 1",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Matrix",
+        "year": "1999",
+		"genres": ["fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2001/11/033/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Matrix",
+			"totalChapters": "3",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -5666,15 +5482,15 @@
         	"ext": "avi"
         },
         "path": "Fantascienza/Matrix",
-        "title": "Matrix 2 - Reloaded",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Matrix - Reloaded",
+        "year": "2003",
+		"genres": ["fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2003/05/013/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Matrix",
+            "totalChapters": "3",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -5689,15 +5505,15 @@
         	"ext": "avi"
         },
         "path": "Fantascienza/Matrix",
-        "title": "Matrix 3 - Revolution",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Matrix - Revolution",
+        "year": "2003",
+		"genres": ["fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2003/11/007/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Matrix",
+            "totalChapters": "3",
+			"chapter": "3",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -5758,7 +5574,7 @@
         	"ext": "avi"
         },
         "path": "Fantascienza",
-        "title": "Minority Report (minuto 44.18 x tesi)",
+        "title": "Minority Report",
         "year": "",
 		"genres": ["movie"],
 		"img": "assets/img/no-pic.png",
@@ -5828,52 +5644,6 @@
         },
         "path": "Fantascienza",
         "title": "Rollerball - 2002 (16.25)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Fantascienza",
-        "title": "Segnali dal Futuro",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Fantascienza",
-        "title": "Serenity",
         "year": "",
 		"genres": ["movie"],
 		"img": "assets/img/no-pic.png",
@@ -6775,32 +6545,9 @@
 		"genres": ["avventura", "fantasy", "epico"],
 		"img": "http://pad.mymovies.it/filmclub/2005/06/048/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "BdRip",
-			"audio" : "sala",
-			"sub": false,
-			"splitted": true,
-        	"ext": "avi"
-        },
-        "path": "Fantasy.Avventura.Epica/Le Cronache di Narnia",
-        "title": "Le Cronache di Narnia 2 - Il Principe Caspian",
-        "year": "2008",
-		"genres": ["avventura", "fantasy", "epico"],
-		"img": "http://pad.mymovies.it/filmclub/2007/09/068/imm.jpg",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
+			"isSaga": true,
+            "name": "Le Cronache di Narnia",
+            "totalChapters": "3",
 			"chapter": "",
 			"isPrequel": false,
 			"isSpinOff": false
@@ -6821,10 +6568,10 @@
         "genres": ["avventura", "fantasy", "epico"],
         "img": "http://pad.mymovies.it/filmclub/2007/09/068/imm.jpg",
         "saga": {
-        	"isSaga": false,
-        	"name": "",
-        	"totalChapters": "",
-        	"chapter": "",
+        	"isSaga": true,
+        	"name": "Le Cronache di Narnia",
+        	"totalChapters": "3",
+        	"chapter": "2",
         	"isPrequel": false,
         	"isSpinOff": false
     	},
@@ -6891,75 +6638,6 @@
 		"img": "http://pad.mymovies.it/filmclub/2012/07/171/imm.jpg",
 		"saga": {
 			"isSaga": true,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Fantasy.Avventura.Epica/Lo Hobbit",
-        "title": "Lo Hobbit - Un Viaggio Inaspettato",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Fantasy.Avventura.Epica/Lo Hobbit",
-		"title": "Lo Hobbit - La desolazione di Smaug",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Fantasy.Avventura.Epica/Lo Hobbit",
-		"title": "Lo Hobbit - La Battaglia delle Cinque Armate",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
 			"name": "",
 			"totalChapters": "",
 			"chapter": "",
@@ -7093,18 +6771,18 @@
         },
         "path": "Fantasy.Avventura.Epica",
         "title": "Scontro Tra Titani",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2010",
+		"genres": ["avventura", "epico"],
+		"img": "http://pad.mymovies.it/filmclub/2009/04/066/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Scontro tra Titani",
+			"totalChapters": "2",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
-		"isRemake": false
+		"isRemake": true
     },
     {
         "quality": {
@@ -7254,9 +6932,9 @@
         },
         "path": "Horror",
         "title": "1408",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2007",
+		"genres": ["horror"],
+		"img": "http://pad.mymovies.it/filmclub/2007/06/087/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7277,14 +6955,14 @@
         },
         "path": "Horror",
         "title": "28 Settimane Dopo",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2007",
+		"genres": ["horror", "zombie"],
+		"img": "http://pad.mymovies.it/filmclub/2007/01/135/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "28 Giorni Dopo",
+			"totalChapters": "2",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7300,9 +6978,9 @@
         },
         "path": "Horror",
         "title": "30 Giorni di Buio",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2007",
+		"genres": ["horror"],
+		"img": "http://pad.mymovies.it/filmclub/2007/06/076/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7323,9 +7001,9 @@
         },
         "path": "Horror",
         "title": "Cloverfield",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["horror"],
+		"img": "http://pad.mymovies.it/filmclub/2007/08/100/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7346,9 +7024,9 @@
         },
         "path": "Horror",
         "title": "District 9",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2009",
+		"genres": ["horror", "fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2008/07/156/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7369,9 +7047,9 @@
         },
         "path": "Horror",
         "title": "Doomsday",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["azione", "fantascienza", "horror"],
+		"img": "http://pad.mymovies.it/filmclub/2008/03/067/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7392,9 +7070,9 @@
         },
         "path": "Horror",
         "title": "E Venne il Giorno",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["fantascienza", "horror"],
+		"img": "http://pad.mymovies.it/filmclub/2008/03/005/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7415,9 +7093,9 @@
         },
         "path": "Horror",
         "title": "Il Labirinto del Fauno",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2006",
+		"genres": ["horror"],
+		"img": "http://pad.mymovies.it/filmclub/2006/05/316/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7438,14 +7116,14 @@
         },
         "path": "Horror",
         "title": "REC - La Paura in Diretta",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2007",
+		"genres": ["horror"],
+		"img": "http://pad.mymovies.it/filmclub/2007/07/062/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "REC",
+			"totalChapters": "2",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7461,14 +7139,14 @@
         },
         "path": "Horror/Resident Evil",
         "title": "Resident Evil - Damnation",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2012",
+		"genres": ["azione", "horror", "zombie", "animazione"],
+		"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg2ODUxOTIzN15BMl5BanBnXkFtZTcwMDM0NzAzOA@@._V1_UY268_CR3,0,182,268_AL_.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Resident Evil Animation",
+			"totalChapters": "2",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7484,14 +7162,14 @@
         },
         "path": "Horror/Resident Evil",
         "title": "Resident Evil - Degeneration",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2008",
+		"genres": ["azione", "horror", "zombie", "animazione"],
+		"img": "http://pad.mymovies.it/filmclub/2008/10/185/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Resident Evil Animation",
+            "totalChapters": "2",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7506,15 +7184,15 @@
         	"ext": "avi"
         },
         "path": "Horror/Resident Evil",
-        "title": "Resident Evil 1",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Resident Evil",
+        "year": "2002",
+		"genres": ["azione", "horror", "zombie"],
+		"img": "http://pad.mymovies.it/filmclub/2002/07/001/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+			"name": "Resident Evil",
+			"totalChapters": "6",
+			"chapter": "1",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7530,14 +7208,14 @@
         },
         "path": "Horror/Resident Evil",
         "title": "Resident Evil 2 - Apocalypse",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2004",
+		"genres": ["azione", "horror", "zombie"],
+		"img": "http://pad.mymovies.it/filmclub/2004/09/100/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Resident Evil",
+            "totalChapters": "6",
+			"chapter": "2",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7553,14 +7231,14 @@
         },
         "path": "Horror/Resident Evil",
         "title": "Resident Evil 3 - Extinction",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2007",
+		"genres": ["azione", "horror", "zombie"],
+		"img": "http://pad.mymovies.it/filmclub/2007/03/074/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Resident Evil",
+            "totalChapters": "6",
+			"chapter": "3",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7576,14 +7254,14 @@
         },
         "path": "Horror/Resident Evil",
         "title": "Resident Evil 4 - Afterlife",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2010",
+		"genres": ["azione", "horror", "zombie"],
+		"img": "http://pad.mymovies.it/filmclub/2010/03/130/imm.jpg",
 		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
+			"isSaga": true,
+            "name": "Resident Evil",
+            "totalChapters": "6",
+			"chapter": "4",
 			"isPrequel": false,
 			"isSpinOff": false
 		},
@@ -7706,17 +7384,17 @@
     },
     {
         "quality": {
-			"video" : "",
-			"audio" : "",
+			"video" : "BdRip",
+			"audio" : "cinema",
 			"sub": false,
 			"splitted": false,
         	"ext": "avi"
         },
         "path": "Horror",
         "title": "The Bay",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "year": "2013",
+		"genres": ["horror", "fantascienza"],
+		"img": "http://pad.mymovies.it/filmclub/2012/09/023/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7736,10 +7414,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Bianco, Rosso e Verdone (1981)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Bianco, Rosso e Verdone",
+        "year": "1981",
+		"genres": ["commedia", "cult"],
+		"img": "http://pad.mymovies.it/filmclub/2006/08/037/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7759,10 +7437,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Come tu mi vuoi (2007)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Come tu mi vuoi",
+        "year": "2007",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2007/10/089/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7782,10 +7460,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Ex (2009)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Ex",
+        "year": "2009",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2008/07/058/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7805,10 +7483,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Fuochi D'Artificio (1997)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Fuochi D'Artificio",
+        "year": "1997",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2001/10/028/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7828,10 +7506,33 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Ho voglia di te (2007)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Ho voglia di te",
+        "year": "2007",
+		"genres": ["commedia", "romantico"],
+		"img": "http://pad.mymovies.it/filmclub/2007/02/001/imm.jpg",
+		"saga": {
+			"isSaga": true,
+			"name": "3 Metri Sopra il Cielo",
+			"totalChapters": "2",
+			"chapter": "2",
+			"isPrequel": false,
+			"isSpinOff": false
+		},
+		"isRemake": false
+    },
+    {
+        "quality": {
+			"video" : "",
+			"audio" : "",
+			"sub": false,
+			"splitted": false,
+        	"ext": "avi"
+        },
+        "path": "Italiani",
+        "title": "I Laureati",
+        "year": "1995",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2006/06/084/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7851,10 +7552,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "I Laureati (1995)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Jolly Blu",
+        "year": "1998",
+		"genres": ["commedia", "musical"],
+		"img": "http://images.movieplayer.it/images/2013/03/15/jolly-blu-la-locandina-del-film-269196.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7874,10 +7575,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Jolly Blu (1998)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "La Pazza Gioia",
+        "year": "2016",
+		"genres": ["drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2015/05/083/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7897,10 +7598,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "La Pazza Gioia (2016)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "La Prima Linea",
+        "year": "2009",
+		"genres": ["azione", "drammatico"],
+		"img": "http://pad.mymovies.it/filmclub/2009/09/118/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7920,10 +7621,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "La Prima Linea (2009)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Mio fratello è figlio unico",
+        "year": "2007",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2007/03/169/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7943,10 +7644,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Mio fratello è figlio unico (2007)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Notte Prima degli Esami",
+        "year": "2006",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2006/01/236/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7966,10 +7667,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Notte Prima degli Esami (2006)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Notte Prima degli Esami - Oggi",
+        "year": "2007",
+		"genres": ["commedia"],
+		"img": "http://pad.mymovies.it/filmclub/2007/01/070/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -7989,33 +7690,10 @@
         	"ext": "avi"
         },
         "path": "Italiani",
-        "title": "Notte Prima degli Esami Oggi (2007)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
-		"saga": {
-			"isSaga": false,
-			"name": "",
-			"totalChapters": "",
-			"chapter": "",
-			"isPrequel": false,
-			"isSpinOff": false
-		},
-		"isRemake": false
-    },
-    {
-        "quality": {
-			"video" : "",
-			"audio" : "",
-			"sub": false,
-			"splitted": false,
-        	"ext": "avi"
-        },
-        "path": "Italiani",
-        "title": "Parlami d'Amore (2008)",
-        "year": "",
-		"genres": ["movie"],
-		"img": "assets/img/no-pic.png",
+        "title": "Parlami d'Amore",
+        "year": "2008",
+		"genres": ["commedia", "romantico"],
+		"img": "http://pad.mymovies.it/filmclub/2008/01/050/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -8061,7 +7739,7 @@
         "title": "Questa Notte è ancora Nostra",
         "year": "2008",
 		"genres": ["commedia"],
-		"img": "assets/img/no-pic.png",
+		"img": "http://pad.mymovies.it/filmclub/2007/11/063/imm.jpg",
 		"saga": {
 			"isSaga": false,
 			"name": "",
@@ -8725,10 +8403,10 @@
 			"ext": "avi"
 		},
 		"path": "SuperHeroes/X-Men/Wolverine",
-		"title": "Wolverine - Le Origini",
-		"year": "",
+		"title": "X-Men le Origini - Wolverine",
+		"year": "2009",
 		"genres": ["superheroes", "azione"],
-		"img": "assets/img/no-pic.png",
+		"img": "http://pad.mymovies.it/filmclub/2007/11/008/imm.jpg",
 		"saga": {
 			"isSaga": true,
 			"name": "Wolverine",
@@ -8749,9 +8427,9 @@
 		},
 		"path": "SuperHeroes/X-Men/Wolverine",
 		"title": "Wolverine - L'Immortale",
-		"year": "",
+		"year": "2013",
 		"genres": ["superheroes", "azione"],
-		"img": "assets/img/no-pic.png",
+		"img": "http://pad.mymovies.it/filmclub/2009/09/113/imm.jpg",
 		"saga": {
 			"isSaga": true,
 			"name": "Wolverine",
@@ -8839,16 +8517,85 @@
             "splitted": false,
             "ext": "mkv"
         },
-        "path": "Drammatico.",
+        "path": "Azione.Dramma.Thriller",
         "title": "Trainspotting",
         "year": "1996",
         "genres": ["drammatico", "grottesco"],
-        "img": "http://www.mymovies.it/film/1996/trainspotting/poster/",
+        "img": "http://pad.mymovies.it/filmclub/2006/08/133/imm.jpg",
         "saga": {
             "isSaga": true,
             "name": "Trainspotting",
             "totalChapters": "2",
             "chapter": "1",
+            "isPrequel": false,
+            "isSpinOff": false
+        },
+        "isRemake": false
+    },
+    {
+        "quality": {
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": false,
+            "splitted": false,
+            "ext": "mkv"
+        },
+        "path": "SuperHeroes/Doctor Strange",
+        "title": "Doctor Strange",
+        "year": "2016",
+        "genres": ["superheroes", "azione"],
+        "img": "http://pad.mymovies.it/filmclub/2010/06/111/imm.jpg",
+        "saga": {
+            "isSaga": true,
+            "name": "Doctor Strange",
+            "totalChapters": "2",
+            "chapter": "1",
+            "isPrequel": false,
+            "isSpinOff": false
+        },
+        "isRemake": false
+    },
+    {
+        "quality": {
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": false,
+            "splitted": false,
+            "ext": "mkv"
+        },
+        "path": "SuperHeroes/Batman",
+        "title": "Suicide Squad",
+        "year": "2016",
+        "genres": ["superheroes", "azione"],
+        "img": "http://pad.mymovies.it/filmclub/2015/05/010/imm.jpg",
+        "saga": {
+            "isSaga": false,
+            "name": "Justice League",
+            "totalChapters": "",
+            "chapter": "",
+            "isPrequel": false,
+            "isSpinOff": true
+        },
+        "isRemake": false
+    },
+    {
+        "quality": {
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": false,
+            "splitted": false,
+            "ext": "mp4"
+        },
+        "path": "Documentari",
+        "title": "Before the Flood - Punto di non Ritorno",
+        "year": "2016",
+        "genres": ["documentario"],
+        "img": "http://pad.mymovies.it/filmclub/2016/09/244/imm.jpg",
+        "saga": {
+            "isSaga": false,
+            "name": "",
+            "totalChapters": "",
+            "chapter": "",
             "isPrequel": false,
             "isSpinOff": false
         },
