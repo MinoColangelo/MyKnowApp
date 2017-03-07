@@ -1,27 +1,27 @@
 .card-details {
 	position: absolute;
-	top: 2px;
-	right: 2px;
-	bottom: 2px;
-	left: 2px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
 	padding: 25px 5px;
     z-index: 20;
 
-	border-radius: 5px;
-	background-color: rgba(black,0.85);
+	//border-radius: 5px;
+	background-color: rgba(black,0.5); //era 0.85
 
-	@include md-shadow(2);
+	//@include md-shadow(2);
 
 	overflow-y: auto;
 	overflow-x: hidden;
 	transition: 0.4s all;
-	transform-origin: 98% 80%;
+	//transform-origin: 98% 80%;
 
 	&.ng-hide {
-		transform: scale(0);
+		//transform: scale(0);
 		opacity:0;
 		&.ng-hide-active {
-			transform: scale(1);
+			//transform: scale(1);
 			opacity: 1;
 		}
 	}

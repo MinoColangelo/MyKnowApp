@@ -15,7 +15,7 @@ module.exports = function (grunt) {
             },
             dataWatch: {
                 files: '<%= src_path %>/assets/data/**/*.json',
-                tasks: ['sync']
+                tasks: ['sync', 'json-minify']
             },
             imgWatch: {
                 files: '<%= src_path %>/assets/img/**/*',
@@ -25,7 +25,7 @@ module.exports = function (grunt) {
                 files: '<%= src_path %>/**/*.html',
                 tasks: ['sync']
             },
-            
+
         },
 
         sass: {
@@ -61,6 +61,12 @@ module.exports = function (grunt) {
                   dest: '<%= dist_path %>',
                 }]
             },
+        },
+
+        'json-minify': {
+          jsonBuild: {
+            files: '<%= dist_path %>/assets/data/**/*.json'
+          }
         },
 
         clean: {
@@ -124,9 +130,10 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-postcss');
     grunt.loadNpmTasks('grunt-browser-sync');
+    grunt.loadNpmTasks('grunt-json-minify');
 
     // define default task
     grunt.registerTask('docheck', ['jshint']);
-    grunt.registerTask('build', ['sync', 'sass', 'postcss', 'uglify', 'browserSync','watch']);
+    grunt.registerTask('build', ['sync','json-minify', 'sass', 'postcss', 'uglify', 'browserSync','watch']);
     grunt.registerTask('default', ['build']);
 };

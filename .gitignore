@@ -26,6 +26,7 @@ coverage
 # IDE config folder
 .idea
 MyKnowApp.iml
+package.sublime-workspace
 
 # node-waf configuration
 .lock-wscript
