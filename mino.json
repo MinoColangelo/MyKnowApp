@@ -1,4 +1,10 @@
 {
 	"name": "Mino",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"api": {
+		"box": "https://dl.dropboxusercontent.com/",
+		"files": [
+			{ "movielist": "s/jq00d8q688bua1b/movielist.json" }
+		]
+	}
 }
