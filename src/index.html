@@ -127,7 +127,13 @@
 									  	  <a href="https://www.google.it/search?q={{movie.title}}%20{{movie.year}}%20mymovies" target="_blank">
 	                                  		{{movie.title}}	<i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
 	                                  	  </a>
-	                                      <small class="movie-card__head__year" ng-show="movie.year">{{movie.year}}</small>
+	                                      <small class="movie-card__head__year" ng-show="movie.year">
+	                                      	{{movie.year}}
+	                                      	<i ng-show="!movie.isDownloaded" class="fa fa-asterisk text-primary" title="da scaricare"></i> 
+									  	  	<i ng-show="movie.isDownloaded" class="fa fa-download text-success" title="scaricato"></i> 
+									  	  	<i ng-show="movie.isDownloaded && !movie.isStored" class="fa fa-desktop text-warning" title="nel PC"></i> 
+									  	  	<i ng-show="movie.isDownloaded && movie.isStored" class="fa fa-database text-info" title="nella Memoria Esterna"></i>
+	                                      </small>
 									  </h3>
 								  </header>
 
