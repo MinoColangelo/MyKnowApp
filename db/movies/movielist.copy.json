@@ -1,0 +1,27 @@
+[
+	{
+        "quality": {
+            "video" : "BdRip",
+            "audio" : "AC3",
+            "sub": false,
+            "splitted": false,
+            "ext": "mp4"
+        },
+        "path": "Documentari",
+        "title": "Before the Flood - Punto di non Ritorno",
+        "year": "2016",
+        "genres": ["documentario"],
+        "img": "http://pad.mymovies.it/filmclub/2016/09/244/imm.jpg",
+        "saga": {
+            "isSaga": false,
+            "name": "",
+            "totalChapters": "",
+            "chapter": "",
+            "isPrequel": false,
+            "isSpinOff": false
+        },
+        "isRemake": false,
+        "isDownloaded": true,
+        "isStored": true
+    }
+]
