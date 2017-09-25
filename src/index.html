@@ -44,10 +44,6 @@
 					    <label class="sr-only" >Img</label>
 					    <input ng-model="movie.img" type="text" class="form-control" placeholder="Image">
 					  </div>
-					  <div class="form-group">
-					    <label class="sr-only" >saga</label>
-					    <input ng-model="movie.saga.isSaga" type="checkbox" class="form-control">
-					  </div>
 					</form>
 				</aside>
 
@@ -111,16 +107,14 @@
 
 	                              <section class="card-details__body">
 	                                  <p>
-	                                      <small>Zona Video/Film/{{movie.path}}</small>
+	                                      <a target="_blank" href="https://www.google.it/search?q={{movie.title}}%20{{movie.year}}%20mymovies" class="btn btn-block btn-primary btn-google">
+	                                      	<i class="fa fa-google"></i> Google
+	                                      </a>
 	                                  </p>
-	                                  <p ng-if="movie.quality.splitted">
-	                                      File diviso <i class="text-warning fa fa-clone"></i>
-	                                  </p>
-	                                  <p ng-if="movie.saga.isSpinOff">
-	                                      Spinoff della serie di <i>{{movie.saga.name}}</i>
-	                                  </p>
-	                                  <p ng-if="movie.saga.chapter">
-	                                      Film {{movie.saga.chapter}} di {{movie.saga.totalChapters}}
+	                                  <p>
+	                                      <a target="_blank" href="https://www.youtube.com/results?search_query={{movie.title}}%20{{movie.year}}%20trailer%20ita" class="btn btn-block btn-danger btn-youtube">
+	                                      	<i class="fa fa-youtube-play"></i> Youtube
+	                                      </a>
 	                                  </p>
 	                              </section>
 
@@ -146,12 +140,10 @@
 							  <div class="movie-card">
 								  <header class="movie-card__head">
 									  <h3 class="movie-card__head__title">
-									  	  <a href="https://www.google.it/search?q={{movie.title}}%20{{movie.year}}%20mymovies" target="_blank">
-	                                  		{{movie.title}}	<i ng-show="movie.quality.splitted" class="text-warning fa fa-clone"></i>
-	                                  	  </a>
+								  		  {{movie.title}} <span ng-show="movie.split" class="label label-warning"><i class="fa fa-clone"></i></span>
+									  	
 	                                      <small class="movie-card__head__year" ng-show="movie.year">
 	                                      	{{movie.year}}
-	                                      	
 	                                      </small>
 									  </h3>
 								  </header>

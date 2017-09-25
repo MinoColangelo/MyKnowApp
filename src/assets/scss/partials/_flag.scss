@@ -1,0 +1,21 @@
+.flag {
+  position: absolute;
+  top: -5px;
+  left: 5%;
+  width: 18px;
+  height: 26px;
+  text-align: center;
+  background-color: #0c729e;
+  color: white;
+  box-shadow: 0 3px 4px rgba(0,0,0,0.3);
+  clip-path: polygon(100% 0, 100% 100%, 50% 80%, 0 100%, 0% 0%);
+  line-height: 22px;
+  z-index: 20;
+
+  &--success {
+    background-color: #026831;
+  }
+  &--info {
+    background-color: #826716;
+  }
+}

@@ -6,8 +6,8 @@
 	  .controller('MyKnowCtrl', function($scope, $http){
 	  	$scope.title = 'MyKnow App';
   		$scope.msg = "stamo a un livello esagerato";
-      //$scope.db = 'assets/data/movielist.json';
-      $scope.db = 'https://dl.dropboxusercontent.com/s/jq00d8q688bua1b/movielist.json';
+      $scope.db = '../db/movies/movielist.json';
+      //$scope.db = 'https://dl.dropboxusercontent.com/s/jq00d8q688bua1b/movielist.json';
 
   		$http.get($scope.db).then(function (movies){
   			$scope.movies = movies.data;
